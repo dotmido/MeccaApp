@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    
+    <string name="firstBtn">عربى</string>
+    
+    <!-- Activites Titles -->
+    <string name="mapActivity">مواقع المناسك</string>
+    
+    
+    <!-- Menu Values  -->
+    
+    <string name="a_map" >الخريطه</string>
+    <string name="a_locations">مواقعك</string>
+    <string name="a_AR">ov</string>
+    <string name="Hmnask">مناسك الحج</string>
+    <string name="Omnask">مناسك العمره</string>
+    <string name="about">عن البرنامج</string>
+    <!-- Menu Values -->
+</resources>

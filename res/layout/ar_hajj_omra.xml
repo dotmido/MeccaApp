@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/hajj_omra_menu_background" >
+
+        <ImageButton
+            android:id="@+id/ArHajjIfradBtn"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentRight="true"
+            android:layout_alignTop="@+id/EnahramBtn"
+            android:layout_marginTop="96dp"
+            android:background="@drawable/backgroundstate"
+            android:src="@drawable/ar_hajj_mofrd" />
+
+        <ImageButton
+            android:id="@+id/ArHajjQiranBtn"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentRight="true"
+            android:layout_below="@+id/ArHajjIfradBtn"
+            android:layout_marginTop="48dp"
+            android:background="@drawable/backgroundstate"
+            android:src="@drawable/ar_hajj_karn" />
+
+        <ImageButton
+            android:id="@+id/ArahramBtn"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignBottom="@+id/ArHajjIfradBtn"
+            android:layout_marginBottom="16dp"
+            android:layout_toLeftOf="@+id/ArHajjIfradBtn"
+            android:background="@drawable/backgroundstate"
+            android:src="@drawable/ar_ahram" />
+
+        <ImageButton
+            android:id="@+id/ArHajjTamattuBtn"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentLeft="true"
+            android:layout_centerVertical="true"
+            android:background="@drawable/backgroundstate"
+            android:src="@drawable/ar_hajj_motmt3" />
+
+        <ImageButton
+            android:id="@+id/ArumrahBtn"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignRight="@+id/ArahramBtn"
+            android:layout_below="@+id/ArHajjTamattuBtn"
+            android:layout_marginRight="16dp"
+            android:background="@drawable/backgroundstate"
+            android:src="@drawable/ar_omra" />
+
+</RelativeLayout>

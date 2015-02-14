@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent" 
+     android:background="@drawable/hajj_omra_menu_background">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+        android:layout_marginTop="80dp"
+        android:layout_marginBottom="80dp"
+        >
+
+        <TextView
+            android:id="@+id/ar_Umrahline1"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:text="@string/ar_umrahline1" />
+
+        <ImageView
+            android:id="@+id/MoatamerImg"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/line1"
+            android:src="@drawable/cappa_umrah" />
+        
+		<ImageView 
+		    android:id="@+id/tawaf_img"
+		    android:layout_height="wrap_content"
+		    android:layout_width="wrap_content"
+		    android:src="@drawable/tawaf_umrah"/>
+        <TextView
+            android:id="@+id/umrahline2"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:text="@string/ar_umrahline2" />
+        <ImageView 
+            android:id="@+id/safa"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:src="@drawable/safa_umrah_img" />
+		<TextView
+		    android:id="@+id/umrahline3"
+		    android:layout_width="match_parent"
+		    android:layout_height="match_parent"
+		    android:text="@string/ar_umrahline3" />
+		
+		
+		
+		<TextView 
+		    android:id="@+id/umrahline4"
+		    android:layout_width="match_parent"
+		    android:layout_height="match_parent"
+		    android:text="@string/ar_umrahline4"/>
+    </LinearLayout>
+    
+
+</ScrollView>

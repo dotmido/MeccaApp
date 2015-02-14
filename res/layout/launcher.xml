@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/start"
+    android:orientation="vertical" >
+
+    <ImageButton
+        android:id="@+id/arabicBtn"
+        android:layout_width="120dp"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_marginBottom="73dp"
+        android:layout_marginRight="17dp"
+        android:layout_toLeftOf="@+id/englishBtn"
+        android:text="@string/firstBtn"
+        android:src="@drawable/arabic_btn" 
+        android:contentDescription="Arabic Button"
+        android:background="@drawable/backgroundstate"/>
+
+    <ImageButton
+        android:id="@+id/englishBtn"
+        android:layout_width="120dp"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentRight="true"
+        android:layout_marginBottom="34dp"
+        android:layout_marginRight="27dp"
+        android:text="@string/enFirstBtn"
+        android:src="@drawable/english_btn" 
+        android:contentDescription="English Button"
+        android:background="@drawable/backgroundstate"/>
+
+</RelativeLayout>

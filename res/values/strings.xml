@@ -1,0 +1,1002 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="ar_near">الاماكن القريبه</string>
+    <string name="ar_goHere">اذهب لهذا المكان</string>
+    <string name="ar_getAddress">عنوان المكان</string>
+    <string name="enFirstBtn">English</string>
+    <string name="app_name">Mecca</string>
+    <string name="action_settings">Settings</string>
+    <string name="action_menu">menu</string>
+    <string name="hello_world">This is String in Values/strings.xml</string>
+	<string name="mar">Al-Marwa - المروه</string>
+    <string name="safa">Al-Safa -  الصفا</string>
+    <string name="kingfahdgate">King Fahd Gate -  باب الملك فهد</string>
+    <string name="cappa">الكعبه</string>
+    <string name="en_capp">Cappa</string>
+    <string name="haram">المسجد الحرام</string>
+    <string name="en_haram">Masjed Haram</string>
+    <string name="ibrahem">مقام ابراهيم</string>
+    <string name="en_ibrahem">Makam Ibrahem</string>
+    <string name="abdElaziz">باب الملك عبد العزيز</string>
+    <string name="en_abdElaziz">King Abdel Aziz Gate</string>
+    <string name="FahdGate">باب الملك فهد</string>
+	<string name="en_FahdGate">King Fahd Gate</string>
+	<string name="OmraGate">باب العمره</string>
+	<string name="en_OmraGate">Omra Gate</string>
+	<string name="fathGate">باب الفتح</string>
+	<string name="en_fathGate">Fath Gate</string>
+	<string name="SafaMarwa">الصفا والمروه</string>
+	<string name="en_safaMarwa">Safa and Marwa</string>
+	<string name="Safa">الصفا</string>
+	<string name="marwa">المروه</string>
+	<string name="en_safa">Al Safa</string>
+	<string name="en_marwa">Al Marwa</string>
+	<string name="Jamra_alkobra">Aljamra Al-kobra</string>
+	<string name="ar_Jamra_alkobra">الجمره الكبرى</string>
+	<string name="Jamra_Wasta">Aljamra Alwasta</string>
+	<string name="ar_Jamra_Wasta">الجمرى الوسطى</string>
+	<string name="Jamra_sogra">Aljamra Alsoghra</string>
+	<string name="ar_Jamra_sogra">الجمره الصغرى</string>
+	<string name="arafat">Arafat mountain</string>
+	<string name="ar_arafat">جبل عرفات</string>
+	<string name="mozdlfa">Mozdalfa</string>
+	<string name="ar_mozdlfa">مزدلفه</string>
+	<string name="ehramLine1">
+	    <b>Ihram for Hajj and Umrah:</b> \n
+Ihram consists of the intention and the Talbiyah. A pilgrim enters the state of Ihram at the Miqat or shortly before,\n for the sake of his peace of mind. Before entering the state of Ihram, the pilgrim is advised to do the following:
+•	Cut his hair or shave it as he used to do before. \n
+•	Cut his nails and remove pubic hair. \n
+•	Take a bath and perform ablution. \n
+•	Wear two garments of unsown white cloth, preferably new. \n
+•	Apply perfume, and pray two rak\‘ahs in a permissible time. \n
+	    
+	</string>
+	<string name="ar_ehramline1">
+	    <b>الإحرام للحاج والمعتمر:</b>\n
+الإحرام هو نية وتلبية\n
+\nويكون من الميقات أو قبله بقليل زيادة في الاطمئنان
+فإذا أراد المعتمر او الحاج أن يحرم يستحب له أن:  \n
+يقص شعره أو يحلقه على حسب عادته من قبل. *-\n
+يقص أظفاره ويزيل عانته. *-\n
+يغتسل ويتوضأ. *-\n
+يلبس إزاراً ورداءً أبيضين طاهرين والجديدان أفضل. *-\n
+يتطيب ثم يصلي ركعتين في غير وقت الكراهة.\n    
+	\n</string>
+	<string name="ehramLine2">
+	    Afterwards, he intends by heart to offer \‘Umrah and can utter his intention as follows: \n
+“O Allah! I intend to perform \‘Umrah so make it easy for me and accept them from me. \n I intend to offer \‘Umrah and have entered the state of Ihram for Allah,\n so if I am detained by anything, my release from Ihram shall be where I am detained ”.\n
+<b>Hajj Ifrad says:</b>\n
+Afterwards, he intends by heart to offer Hajj and can utter his intention as follows: \n
+"O Allah! I intend to perform Hajj so make it easy for me and accept it from me. \n I intend to offer Al Hajj and have entered the state of Ihram for Allah,\n so if I am detained by anything, my release from Ihram shall be where I am detained ".\n
+<b>Hajj Qeran:</b>
+Afterwards, he intends by heart to offer Hajj and can utter his intention as follows:\n “O Allah! I intend to perform \‘Umrah and Hajj so make them easy for me and accept them from me.\n I intend to offer \‘Umrah and Hajj and have entered the state of Ihram for Allah,\n so if I am detained by anything, my release from Ihram shall be where I am detained ”.\n
+<b>Hajj Tamattu\':</b>
+1-	Iharam from Meqat for \'Umrrah:\n
+“O Allah! I intend to perform \‘Umrah so make it easy for me and accept it from me.\n I intend to offer \‘Umrah and have entered the state of Ihram for Allah,\n so if I am detained by anything, my release from Ihram shall be where I am detained ”\n
+
+2-	Ihram from the Holy Mosqe for hajj:\n
+In the morning of 8th Dhul Hijjah (the day of Tarwiyah) the pilgrim performing Tammattu\‘ Hajj puts on his Ihram dress again and prays two rak\‘as of Ihram declaring his intention of offering Hajj by saying:\n
+“O Allah! I want to perform Hajj so make it easy for me and accept it from me,\n I intend to offer Hajj and entered the state of Ihram for Allah,\n so if I am detained by anything, my release from Ihram shall be where I am detained”.\n
+Then the pilgrim says the Talbiyah as follows:\n
+“Labbayk Allahuma labbayk,\n Labbayka La Shareeka Laka Labbayk.\n Inna – alhamda wan-ni\‘mata Laka walmulk.\n La Shareeka Lak”\n (Here I am, O Allah! Here I am, at Your service! You have no partner, here I am.\n All praise, grace and dominion belongs to You. You have no partner).\n
+He repeats the Talbiyah three times and concludes by saluting our prophet Muhammad (peace be upon him).\n
+The pilgrim repeats the Talbiyah whenever he climbs a hill,\n descends a valley, gets into a car or gets out of it.\n Also when he meets friends and acquaintances and at the end of prayers.\n
+	    
+	</string>
+	<string name="ar_ehramline2">
+	    
+ثم ينوي العمرة بالقلب ولا بأس أن يقول بلسانه *\n
+(اللهم إني أريد العمرة فيسرها لي وتقبلها مني، نويت العمرة وأحرمت بها لله تعالى فإن حبسني حابس فمحلي حيث حبستني)\n
+أو ينوي الحاج المفرد قائلا:*\n
+(اللهم إني أريد الحج فيسره لي وتقبله مني، نويت الحج وأحرمت به لله تعالى فإن حبسني حابس فمحلي حيث حبستني)\n
+والحاج القارن قائلا:*\n
+(اللهم إني أريد العمرة والحج فيسرهما لي وتقبلهما مني، نويت العمرة والحج وأحرمت بهما لله تعالى، فإن حبسني حابس فمحلي حيث حبستني)\n
+والحاج المتمتع:*\n
+الإحرام بالعمرة من الميقات يقول: 1-\n
+(اللهم إني أريد العمرة فيسرها لي و تقبلها مني، نويت العمرة و أحرمت بها لله تعالى فإن حبسني حابس فمحلي حيث حبستني)\n
+الإحرام من المسجد الحرام مجددا للحج يقول: 2-\n
+   في صباح يوم التروية أي الثامن من ذي الحجة يحرم الحاج المتمتع من جديد ويصلي ركعتي الإحرام ويقول:\n
+(اللهم إني أريد الحج فيسره لي وتقبله مني، نويت الحج وأحرمت به لله تعالى فإن حبسني حابس فمحلي حيث حبستني) \n
+ثم يلبي قائلاً:\n
+لبيك اللهم لبيك، لبيك لا شريك لك لبيك، إن الحمد والنعمة لك والملك، لا شريك لك ويكررها ثلاث مرات، ويختم بالصلاة على سيدنا محمد (صلى الله عليه وسلم) يكرر الحاج التلبية كلما صعد شرفاً أو هبط وادياً أو ركب سيارة أو نزل منها وعند لقاء الأصدقاء والمعارف وأدبار الصلوات.\n
+	    \n
+	</string>
+	<string name="ehramline3">
+	    \n <b>Entering Makkah:</b> \n
+When the pilgrim approaches Makkah he says:\n
+“O Allah!\n This is Your Haram and Your secure place,\n so forbid my body from the Hell fire and save me from Your torture when You will resurrect Your servants and include me among Your obedient pious people”.\n
+After entering Makkah the pilgrim says:\n
+“O Allah!\n This is Your blessed town and Your blessed House; I came seeking Your mercy in obedience to Your commands.\n I pray to You my God in my utmost need,\n fearing Your torture that You receive me with Your pardon,\n forgive me with Your mercy and admit me into Your paradise ”.\n
+Then he utters salutations for Prophet Muhammad (peace be upon him).\n
+	    
+	</string>
+	<string name="ar_ehramline3">
+	<b>    دخول مكة:</b>\n
+حين يدنو من مكة يقول: \n
+(اللهم هذا حرمك و أمنك، فحرمني على النار، وأمني من عذابك يوم تبعث عبادك, واجعلني من أوليائك وأهل طاعتك)\n
+وبعد دخول مكة يقول:\n
+(اللهم البلد بلدك, والبيت بيتك, جئت أطلب رحمتك, وأؤم طاعتك متبعاً لأمرك, أسألك مسألة المضطر إليك، المشفق من عذابك أن تستقبلني بعفوك, وأن تتجاوز عني برحمتك, وأن تدخلني جنتك)\n 
+.(صلى الله عليه وسلم) ثم يصلي على النبي المصطفى \n
+	    \n
+	</string>
+	<string name="ehramLine4">
+	    \n<b>Entering Al-Masjid Al-Haram (the Sacred Mosque):</b> \n
+•	It is recommended to enter through Bab Al-Salam (the gate of Peace).\n
+•	A pilgrim enters with his right foot saying salutations for Prophet Muhammad (peace be upon him) and invoking:\n
+“O Allah! Forgive my sins and open for me the gates of Your mercy ”.\n
+“ O Allah! This is Your Haram and Your secure place, I ask You to protect my flesh, skin, blood, brain and bones from Hell fire”.\n
+- When he sees the Ka\‘bah he utters Tahlil and Takbir saying “La-ilaha-illa-Allah, Allahu Akbar” “there is no god but Allah and Allah is the greatest”.\n
+He repeats this Tahlil and Takbir for three times raising his hands and supplicating because the supplication made at seeing the Ka\‘bah is accepted:\n
+“O Allah! Make my invocations accepted in all that which is good”.\n
+“I seek protection from the Lord of the House from debt, poverty, narrowness of the chest and from the torture of the grave”.\n
+“O Allah! I beseech You to pardon me, grant me mercy and save my neck from the Hell fire”.\n
+
+Or the pilgrim invokes Allah to grant him whatever he needs and he utters prayers for prophet Muhammad (peace be upon him) saying: “O Allah! Increase the honour, dignity and reverence of Your Sacred House and increase whoever visits it either in Hajj or \‘Umrah in honour, respect, nobleness and righteousness”. “O Allah! You are peace, and from You is peace. Our Lord, receive us with peace”.\n
+	    \n\n\n\n\n\n\n\n\n\n\n
+	</string>
+	<string name="ar_ehramLine4">
+	 <b>   دخول المسجد الحرام:</b>\n
+يستحب الدخول من باب السلام\b
+يدخل برجله اليمنى و يصلي على النبي (صلى الله عليه وسلم) ويقول:\n
+(اللهم اغفر لي ذنوبي وافتح لي أبواب رحمتك)\n
+(اللهم هذا حرمك وموضع أمنك فحرم لحمي وبشري ودمي ومخي وعظامي على النار)\n
+حين مشاهدة الكعبة يهلل ويكبر لا إله إلا الله و الله أكبر ثلاث مرات ويرفع يديه ويدعو فإن \n
+الدعاء عند رؤية الكعبة مجاب: \n
+(اللهم اجعلني مجاب الدعوة في الخير)\n 
+(أعوذ برب البيت من الدين والفقر ومن ضيق الصدر وعذاب القبر)\n
+ (اللهم إني أسألك أن تغفر لي وترحمني وتفك رقبتي من النار)\n
+أو يدعو بما يحتاج من الله تعالى ويصلي على النبي (صلى الله عليه وسلم) ويقول:\n 
+(اللهم زِد هذا البيت تشريفاً وتعظيماً وتكريماً ومهابة، وزد من شرفه وكرمه ممن حجه أو اعتمره تشريفاً وتكريماً وتعظيماً ومهابة وبرا , اللهم أنت السلام ومنك السلام فحينا ربنا بالسلام)\n
+	    \n\n\n\n\n\n\n\n\n\n\n
+	</string>
+	
+	
+	<string name="umrahline1">
+	    \‘Umrah is the lesser pilgrimage and it is derived from al-I\‘ttimar which means “the visit” where al-Mu\‘ttamer assumes Ihram from the Miqat, performs the Tawaf of al-\‘Umrah then performs Sa\‘y and releases his state of Ihram either by hair shaving or hair shortening.\n
+	    <b>Al Tawaf:</b>\n
+•	At the beginning of Tawaf, it is recommended for the pilgrim to face the Ka\‘bah such that the Black Stone is on his right. Then he moves to position himself before the Black Stone and intends Tawaf (either the Tawaf of \‘Umrah or Tawaf Al-Qudum).\n
+•	He starts from the brown marble line saying: (Bismillah, Allahu Akbar) “In the name of Allah, Allah is the Greatest.” “O Allah! Having faith in You, confirming the truthfulness of Your Holy Book, fulfilling Your promise and following the Sunnah of Your Prophet (peace be upon him)”.\n
+•	The pilgrim touches the Black Stone and kisses it if possible.\n
+•	If it is too difficult to kiss it, he touches it with his right hand and kisses his hand.\n
+•	If that isn’t possible he stands facing the Black Stone and points to it with his hand once while saying: “Bismillah, Allahu Akbar” (in the name of Allah, Allah is the Greatest). Then he starts Al-Tawaf.\n
+	    \n
+	</string>
+	<string name="ar_umrahline1">
+	<b>
+مناسك العمرة:</b>    \n
+العمرة هي الحج الأصغر وهي مأخوذة من الاعتمار وهو (الزيارة) وفيها يحرم المعتمر من الميقات ويطوف طواف العمرة ثم يسعى و يحل من إحرامه بالحلق أو التقصير\n
+	<b>        
+الطواف:</b> \n
+  يستحب في بداية الطواف أن يستقبل الكعبة بحيث يكون الحجر الأسود عن يمينه ثم ينتقل ليستقبل الحجر و ينوي الطواف (طواف العمرة)\n 
+يبدأ من خط المرمر البني ويقول:\n
+(بسم الله والله أكبر اللهم إيماناً بك وتصديقاً بكتابك ووفاء بعهدك وإتباعاً لسنة نبيك)\n
+يستلم الحجر ويقبله إن أمكن ذلك ,إذا تعذر تقبيله يلمسه بيده اليمنى (استلام) ويقبل يده, إذا تعذر ذلك يقف بمواجهة الحجر الأسود ويشير إليه بيديه مرة واحدة فقط ويقول بسم الله والله أكبر ثم يبدأ الطواف\n
+	</string>
+	
+	<string name="umrahline2">
+	   <b> Tawaf is performed for seven rounds.</b> 
+•	The pilgrim (Hajj) recites at the door of the Ka\‘bah:\n
+“O Allah! The House is Yours, and the Haram is Yours, and the peace is Yours, and this is the place of he who seeks Your protection”.\n
+•	He says at the Iraqi Corner:\n
+“O Allah! I seek refuge in You from doubt and from shirk, from discord, hypocrisy, ill-manners, and calamity in property, family and children”.\n
+•	He says between the Shami Corner and the Yamani Corner:n 
+“O Allah! Make my Hajj an accepted Hajj, my effort accepted and recognized, my sin pardoned, my deeds accepted and grant me a trade that will never fail, You are the Exalted in might, The Oft-Forgiving.”\n
+•	Istilam (touching) the Yamani Corner is desirable whenever the pilgrim passes by it during Tawaf, by touching the Corner with his palms or with his right hand. If this is not possible, he should point towards it. Du\‘a is recommended at the Yamani Corner because it is surely accepted since there are seventy thousand angels there who say “Ameen”.\n
+•	The pilgrim recites between the Yamani Corner and the Black Stone: “Our Lord, give us in this world [that which is] good and in the Hereafter [that which is] good and protect us from the punishment of the Fire”.\n
+“O Allah! Save me from disbelief, want and disgraceful situations in this world and in the Hereafter”.\n
+•	He invokes often in the first three rounds: “O Allah! Make my Hajj an accepted Hajj, forgive my sins accept and recognize my effort”.\n
+•	He recites in the other four rounds: “O Allah! Forgive and grant us mercy, pardon and favor, excuse us for what You know of us, You are the Most Powerful, the Most Generous ”.\n
+The pilgrim makes continuous invocations, asking for the good of this world and the good of the Hereafter.\n
+At the end of the Tawaf, the pilgrim touches and kisses the Black Stone or he points at it with his palms and at each time he passes in front of it during Tawaf.\n
+The Two Rak\‘ahs of Tawaf\n
+After completing Tawaf, the pilgrim prays two rak\‘ahs of Tawaf behind Maqam Ibrahim (the standing place of Ibrahim) (may peace be upon him) even at the end of the Haram or in any place in the Haram, it is permissible in case the Haram is over-crowded.\n
+In the first rak\‘ah he recites the Surah of “Al Kafiroon”, and in the second rak\‘ah he recites Surah “Al Ikhlas” … after “Al Fatiha”.\n
+Allah says: (And take, [O believers], from the standing place of Abraham a place of prayer).\n
+He invokes after the prayer: “O Allah! You invited Your slaves to Your Sacred House, and I came in response to Your call begging for Your Mercy and beseeching Your Content, and You have granted me my quest, so forgive me. You are over all things Competent”.\n
+	    \n
+	</string>
+	<string name="ar_umrahline2">
+	
+	    
+<b>والطواف عبارة عن سبعة أشواط.</b>
+يقول عند باب الكعبة:\n
+( اللهم إن البيت بيتك، والحرم حرمك، والأمن أمنك، وهذا مقام العائذ بك)\n
+يقول عند الركن العراقي:\n
+(اللهم إني أعوذ بك من الشك و الشرك والشقاق والنفاق وسوء الأخلاق وسوء المنظر في المال والأهل والولد)\n
+ :ي\nقول بين الركن الشامي واليماني
+(اللهم اجعله حجاً مبروراً وسعياً مشكوراً وذنباً مغفوراً وعملاً مقبولاً وتجارة لن تبور يا عزيز يا غفور)\n
+\n
+الركن اليماني: الحجر الاسود  يقول بين\n 
+(رَبَّنَا ءَاتِنَا فِي الدُّنْيَا حَسَنَةً وَفِي الْآخِرَةِ حَسَنَةً وَقِنَا عَذَابَ النَّارِ)\n
+(اللهم إني أعوذ بك من الكفر والفاقة ومواقف الخزي في الدنيا والآخرة).\n
+ويكثر في الأشواط الثلاثة من قوله اللهم اجعله حجاً مبروراً وذنباً مغفوراً وسعياً مشكورا\n
+يقول في الأربعة الباقية: (اللهم اغفر وارحم واعف وتكرم، وتجاوز عما تعلم, إنك أنت الأعز الأكرم)\n
+ويكثر من الدعاء بما فيه خير الدنيا و الآخرة.\n
+في ختام الطواف يستلم الحجر أو يشير إليه بكفيه وفي كل مرة يمر من أمامه أثناء الطواف\n
+ركعتا الطواف:\n
+بعد الانتهاء من الطواف يصلي ركعتي الطواف خلف مقام سيدنا إبراهيم عليه السلام ولو في آخر الحرم.   في أي مكان في الحرم جائز في حال الزحام\n 
+يقرأ في الأولى قل يا أيها الكافرون.... وفي الثانية قل هو الله آحد....بعد الفاتحة.\n
+يدعو بعد الصلاة: (اللهم إنك دعوت عبادك إلى بيتك, وقد جئت طالباً رحمتك, ومبتغياً رضوانك, وأنت مننت علي بذلك, فاغفر لي, إنك على كل شيء قدير)\n
+	    \n
+	</string>
+	<string name="umrahline3">
+	   <b>Sa\‘y between Safa and Marwa:</b> \n
+
+The Pilgrim ascends the mount of Al-Safa so as to see the Ka\‘bah (if possible) from the Safa door. While ascending he recites:\n
+(\‘Indeed as-Safa and al-Marwa are among the symbols of Allah. So whoever makes Hajj [pilgrimage] to the House or performs `Umrah - there no blame upon him for walking between them. And whoever volunteers good - then indeed, Allah is appreciative and knowing”)\n
+Then he repeats this supplication for three times: (Allah is the Greatest, Allah is the Greatest. Allah is the Greatest and all praise belongs to Him (Allah is the Greatest for leading us to the right way and all praise belongs to Him for His offerings).\n
+(there is no God except Allah, Alone with no partner). He is Lord of everything. All praise belongs to Him who gives life and inflicts death, all good is bestowed by Him and He empowers all things. He has kept His promise, aided His servant, empowered his troops and defeated the allies Alone.\n
+There is no god but Allah, we do not worship but Him with utmost sincerity even if the disbelievers detest it.\n
+O Allah! You told us “invoke me, I’ll respond to you” and You do not break your promise, so I beseech You as You guided me to Al Islam not to strip it from me till You inflict death on me as a true Muslim (three times).\n
+Then he utters salutations in praise of our prophet Muhammad (peace be upon him) and invokes when he descends from Al-Safa at each round: O Allah! I pray for the causes of Your mercy, motives for Your forgiveness, escape from all sins, reward for every good deed, and make me worthy of paradise and protect me from the Hell fire.\n
+It is Sunnah to jog between the two green slopes (jogging is only for men) where the pilgrim invokes: “ Our Lord! Grant us good in this world and good in the Hereafter and save us from the torture of Hell. My Lord! Forgive and have mercy, pardon and favor us, pass over what You know. You are the All Glorious, the All Generous. My Lord! I beg You for guidance, piety, chastity and self – sufficiency. My Lord! Support me in praising, thanking and worshipping You”.\n
+When he reaches Al-Marwa, he would have completed one round. He completes seven rounds starting initially from Al-Safa and concluding finally at Al-Marwa. When the pilgrim stands at Al-Marwa, he recites: “Indeed as-Safa and al-Marwa are among the symbols of Allah………..etc”\n
+He also utters the same supplications he mentioned at Al-Safa. The pilgrim utters He invokes after he concludes sa\‘y: “ Our Lord! Accept this from us, grant us safety, pardon us and support us to obey and praise You”.\n
+\n	    
+	</string>
+	<string name="ar_umrahline3">
+	    <b>السعي بين الصفا و المروة</b>\n  
+يصعد إلى الصفا بحيث يرى الكعبة (إذا أمكن) من باب الصفا ويقول حين الصعود\n
+(إِنَّ الصَّفَا وَالْمَرْوَةَ مِنْ شَعَائِرِ اللَّهِ فَمَنْ حَجَّ الْبَيْتَ أَوِ اعْتَمَرَ فَلا جُنَاحَ عَلَيْهِ أَنْ يَطَّوَّفَ بِهِمَا وَمَنْ تَطَوَّعَ خَيْرًا فَإِنَّ اللَّهَ شَاكِرٌ عَلِيم)\n 
+ثم يقول:\n
+(الله أكبر الله أكبر، الله أكبر و لله الحمد، الله أكبر على ما هدانا والحمد لله على ما أولانا، لا إله إلا الله وحده لا شريك له، له الملك وله الحمد يحيي ويميت، بيده الخير، وهو على كل شيء قدير، لا إله إلا الله وحده، صدق وعده، ونصر عبده، وأعز جنده، و هزم الأحزاب و حده، لا إله إلا الله، ولا نعبد إلا إياه مخلصين له الدين ولو كره الكافرون، اللهم إنك قلت: ادعوني استجب لكم, وإنك لا تخلف الميعاد، وإني أسألك كما هديتني للإسلام أن لا تنزعه مني حتى تتوفاني وأنا مسلم) ثلاث مرات.\n
+ثم يصلي على سيدنا محمد (صلى الله عليه وسلم) ويقول عند هبوطه من الصفا في كل شوط:\n
+(اللهم إني أسألك موجبات رحمتك وعزائم مغفرتك والسلامة من كل إثم والغنيمة من كل بر والفوز بالجنة والنجاة من النار)\n
+يُسن أن يهرول بين الميلين الأخضرين (للرجل فقط).\n
+يدعو بين الميلين الأخضرين:\n
+(ربنا أتنا في الدنيا حسنة وفي الآخرة حسنة وقنا عذاب النار، رب اغفر وارحم، واعف وتكرم،\n 
+وتجاوز عما تعلم, إنك أنت الأعز الأكرم، اللهم إني أسألك الهدى والتقى والعفاف والغنى، اللهم اعني على ذكرك وشكرك وحسن عبادتك).\n
+ ثم يصل الى المروة فهذا شوط واحد فيتم سبعة أشواط يبدأ أولها بالصفا وينتهي آخرها بالمروة.\n
+(إِنَّ الصَّفَا وَالْمَرْوَةَ مِنْ شَعَائِرِ اللَّهِ....)  عندما يقف عند المروة يقول \n
+ويقول نفس الأذكار والدعوات التي قالها عند الصفا.\n
+\n
+	</string>
+	<string name="umrahline4">
+	    <b>Shaving or shortening the hair:</b>\n
+•	It is a must to shave or shorten the hair by at least the amount of a fingertip (2 c.m) but shaving the head completely with a razor is preferred according As for a woman she shortens her hair as little as a fingertip. (a woman does not shave at all).\n
+•	It is advised when shaving to say: “Praise be to Allah for his right guidance, praise be to Allah for the favors He bestowed upon us. O Allah! This is my forehead (means I am totally obedient), so accept from me and forgive my wrong deeds”. “O Allah! Forgive me and the shavers and the shortners. My Lord, You are ample in forgiveness – Ameen”. After he finishes shaving or clipping his hair, he says: (praise be to Allah who helped us to perform this act of worship).\n
+When the pilgrim does that, he releases himself from Ihram, and he is allowed to do whatever was not allowed during Ihram.\n
+	    \n\n\n\n\n\n\n\n\n\n\n
+	</string>
+	<string name="ar_umrahline4">
+	    
+<b>الحلق والتقصير :</b>\n
+يجب حلق الشعر أو تقصيره قدر الأنملة (2 سم) ويستحب الحلق بشكل كامل وبالموس, والمرأه فقط تقصر قدر انمله.\n
+ويستحسن عند الحلق أن يقال:\n
+(الحمد لله على ما هدانا، الحمد لله على ما أنعم به علينا، اللهم هذه ناصيتي, فتقبل مني واغفر لي ذنوبي)\n
+(اللهم اغفر لي وللمحلقين والمقصرين يا واسع المغفرة ، آمين)\n
+وبعد الفراغ من الحلق أو التقصير يقول:\n
+(الحمد لله الذي قضى عنا نُسُكَنا)\n
+فإذا فعل ذلك يتحلل المعتمر, ويحل له كل شيء حرم بالإحرام.\n
+	     \n\n\n\n\n\n\n\n\n\n\n
+	</string>
+	<string name="Ifradline1">
+	    <b>Ifrad Hajj</b>\n
+Means that the pilgrim enters into the state of Ihram, and at the miqat he should intend to perform Hajj only, then start the Talbiyah, and remain in the state of Ihram till he goes to Arafah, then throws Jamrat Al-Aqabah, then leaves the state of Ihram.\n 
+Allah says:\n
+"Hajj is [during] well-known months, so whoever has made hajj obligatory upon himself therein [by entering the state of ihram], there is [to be for him] no sexual relations and no disobedience and no disputing during hajj. And whatever good you do - Allah knows it. And take provisions, but indeed, the best provision is fear of Allah. And fear Me, O you of understanding.\" (2:197)\n
+Before the 8th of Dhul\'hijjah\n
+1)	Ihram\n
+2)	The Arrival Tawaf At the beginning of Tawaf, it is recommended for the pilgrim to face the Ka'bah such that the Black Stone is on his right. Then he moves to position himself before the Black Stone. He starts from the brown marble line saying:"\n
+ In the name of Allah, Allah is the Greatest. O Allah! Having faith in you, confirming the truthfulness of Your Holy Book, fulfilling Your promise and following the Sunnah of Your Prophet (peace be upon him)".\n
+	   Tawaf is performed for seven rounds\n 
+	</string>
+	<string name="Ifradline2">
+	    
+3)	The Two Rak\'ahs of Tawaf:
+fter completing Tawaf, the pilgrim prays two rak\'ahs of Tawaf behind Maqam Ibrahim (the standing place of Ibrahim) (may peace be upon him) or in any place in the Haram; even at the end of the Haram it is permissible in case the Haram is over-crowded.
+In the first rak\'ah he recites the Surah of "Al Kafiroon", and in the second rak\'ah he recites Surah "Al Ikhlas" … after "Al Fatiha". he make Du\‘a after the prayer: "O Allah! You invited Your slaves to Your Sacred House, and I came in response to Your call begging for Your Mercy and beseeching Your Content, and You have granted me my quest, so forgive me. You are over all things Competent".
+4)	Staying in Mecca  and he remains in the state of ihram  till the 8th of Dhul\'hijjah
+The pilgrim makes the best use of this period by:
+- Praying (performing Salah) as often as possible in Al-Masjid Al-Haram (each prayer in Al-Masjid Al-Haram equals one hundred thousand Salah prayer).
+- Performing Tawaf as often as possible as Tawaf for Al Afaqi is one of the best acts of worship in Al-Masjid Al-Haram.
+	    
+	</string>
+	<string name="Ifradline3">
+	<b>The 8th of Dhul\'hijjah</b>
+He goes to Mina after Fajr prayer where he prays Zuhr – Asr – Maghrib – Isha and Fajr of the 9th day While going to Mina, the pilgrim says:\n
+("O Allah! In You is my hope, and to You I supplicate. So make my best hopes come true, forgive me, grant me a favor as You bestowed upon Your obedient servants, You are over all things Competent". In Mina, the pilgrim invocations and saying\n
+"Our Lord, give us in this world [that which is] good and in the Hereafter [that which is] good and protect us from the punishment of the Fire".\n
+It is a Sunnah (prophetic tradition) to stay for a while and pray in Al-Khayf mosque (in Mina).\n
+<b>The 9th of Dhul\'hijjah</b>\n
+He goes to Arafat after performing fajr prayer and says on his way:\n
+("O Allah! I headed towards You, seeking for Your Generous Face, so forgive my sin, accept my Hajj and have mercy on me, You are over all things Competent". The pilgrim increases the repetition of Talbiyah and the recitation of the Holy Qur\'an especially: "Our Lord, give us in this world good and in the Hereafter good and protect us from the punishment of the Fire".\n
+Arrival to Arafat he stands in Arafat, Whenever he looks at the Mount of Mercy he praises Allah and says: "Allahu Akbar" "Allah is the greatest".\n
+It is a Sunnah to go to the Namirah Mosque to listen to the sermon, and he combines Zuhr and Asr prayers in advance at the time of Zuhr, with one Azan and two Iqamas, praying in congregation with the Imam without performing Sunnah prayers in between\n
+	\n
+	</string>
+	<string name="Ifradline4">
+	    Descending from Arafah to Muzdalifah after sunset  reciting Talbiyah and Takbir,\n
+	    praising, glorifiying and saying: “Allahu Akbar, Allahu Akbar, Allahu Akbar (Allah is the Greatest) three times La ilaha illa Allah\n
+	    (there is no god but Allah), wa lillah el hamd (praise be to Allah)”. 
+	    He says: “O Allah! To You I aspire, for Your Majesty I pray, so accept my act of worship,\n 
+	    guide me, provide me in it with more good than I ask for and never let me down,\n 
+	    You are Allah the Most Bountiful, the Most Generous”. It is advised to say Du\‘a recitations,\n 
+	    Talbiyah and read what he can from the Holy Qur\’an. “But when you depart from \‘Arafat, remember Allah at al- Mash\‘ar al-Haram. And remember Him,\n 
+	    as He has guided you, for indeed, you were before that among those astray.\n 
+	    Then depart from the place from where [all] the people depart and ask forgiveness of Allah.\n 
+	    Indeed, Allah is Forgiving and Merciful”. “O Allah! I ask You for the preludes (beginnings) of all blessings and its results, combinations,\n 
+	    start and end, its outward and inward, and grant me the highest degrees in Paradise,\n 
+	    and that You set right for me all my affairs, and that You keep away from me all evil,\n 
+	    for there is none who does that but You, and no one offers it generously but You”.
+	</string>
+	<string name="Ifradline5">
+	    Then he combines Maghrib and Isha prayer  together by one azan and an Iqama  and he delays the Sunnah prayer for Maghrib, Isha and Witr till after he prays Isha.\n
+	    Then the pilgrim gathers 70 pebbles (small stones which are bigger than the size of chick-pea and smaller than a hazelnut) for throwing all the Jamarat. When the day breaks, it is a Sunnah to pray Fajr prayer at the beginning then he says: “Allahu Akbar, Allahu Akbar, Allahu Akbar there is no god but Allah. Allahu Akbar  ,Allah is the greatest and praise be to Allah". He says salutations upon our Prophet Muhammad (peace be upon him) and he supplicates while raising both hands to heaven.
+<b>The 10th of Dhul\'hijjah</b>
+1)	 Heading to Mina After Fajr prayer and before sunrise 
+saying Talbiyah as often as he can. It is desirable for him to say while marching: “O Allah! To You I come, from Your punishment I fear, to You I head feeling awe from Your wrath. O Allah accept my act of worship, increase my reward, have mercy on my supplication and with Your grace grant me my quest”. He also says salutations upon the Prophet peace be upon him. When he reaches Wadi Muhassar, he fastens his march in that area and says when he comes to Mina:
+“Praise be to Allah who enabled me to get here safe and healthy sound. O Allah! I came to Mina as Your slave and within your control, so I pray to You to favour me with whatever You’ve favoured Your obedient pious men. O Allah! Save me from deprivation and calamity in my faith, You are the Most Merciful of the merciful".
+2)	Ramy (throwing) of Jamrat al-Aqaba
+	    
+	</string>
+	<string name="Ifradline6">
+	    The pilgrim throws seven pebbles and says at each casting: “In the name of Allah, Allah is the Greatest, in defiance and condemnation of satan and his party and for Allah’s satisfaction”.The pilgrim interrupts Talbiyah when he starts al–Ramy. 
+The Time of Ramy is from the dawn of yawm al – Nahr (Day of sacrifice) till the dawn of the next day but in the prophetic tradition (Al sunnah) Ramy is due between sunrise till zawal, and Ramy is allowed after sunset and until dawn but it is Makrouh (disliked) except for an acceptable excuse. Throwing of el-Jamra (pebble) so as to hit the stone pillar of al–Jamra or to fall within the circle surrounding it. The pilgrim stands facing al–Jamra so as to put Mina on his right and Makkah Road on his left while al–Ramy from over the bridge can be performed from any direction (as in the picture).
+3)	Shaving or shortening of hair:
+It is a must to shave or shorten the hair by at least the amount of a fingertip (2 c.m) but shaving the head completely with a razor, As for a woman she shortens her hair just a little.It is advised when shaving to say: “ Praise be to Allah for his right guidance, praise be to Allah for the favors He bestowed upon us. O Allah! This is my forehead (means I am totally obedient), so accept from me and forgive my wrong deeds”. “ O Allah! Forgive me and the shavers and the shortners. My Lord, You are ample in forgiveness – Ameen”. After he finishes shaving or clipping his hair, he says: (praise be to Allah who helped us to perform this act of worship).
+When the pilgrim does that, he releases himself for the smallest release (al-Tahalul al-asghar) from Ihram. He is allowed to do whatever was not allowed during Ihram except for sexual intercourse and its causes, which are not allowed till he goes to cicumambulate round the Ka\‘bah for Tawaf – al-Ifadah.
+4)	Tawaf Al-Ifadah
+After returning from Mina to Makkah al-Mukaramah the pilgrim circumambulates round the Ka\‘bah for seven rounds and prays two rak\‘as of Tawaf. Then he comes to Zamzam and goes pacing between Safa and Marwa for sa\‘y unless he had performed sa\‘y before.
+After performing Tawaf-al-Ifadah, the pilgrim releases himself from Ihram for the biggest release (al-Tahalul al-akbar) i.e. the pilgrim is allowed to do everything, which was previously restricted due to Ihram.
+
+5)	Sa\‘y between Safa and Marwa:
+
+The Pilgrim ascends the mount of Al-Safa so as to see the Ka\‘bah (if possible) from the Safa door. While ascending he recites:
+(\‘Indeed as-Safa and al-Marwa are among the symbols of Allah. So whoever makes Hajj [pilgrimage] to the House or performs `Umrah - there no blame upon him for walking between them. And whoever volunteers good - then indeed, Allah is appreciative and knowing”)
+Then he repeats this supplication for three times: (Allah is the Greatest, Allah is the Greatest. Allah is the Greatest and all praise belongs to Him (Allah is the Greatest for leading us to the right way and all praise belongs to Him for His offerings).
+(there is no God except Allah, Alone with no partner). He is Lord of everything. All praise belongs to Him who gives life and inflicts death, all good is bestowed by Him and He empowers all things. He has kept His promise, aided His servant, empowered his troops and defeated the allies Alone.
+There is no god but Allah, we do not worship but Him with utmost sincerity even if the disbelievers detest it.
+O Allah! You told us “invoke me, I’ll respond to you” and You do not break your promise, so I beseech You as You guided me to Al Islam not to strip it from me till You inflict death on me as a true Muslim (three times).
+Then he utters salutations in praise of our prophet Muhammad (peace be upon him) and invokes when he descends from Al-Safa at each round: O Allah! I pray for the causes of Your mercy, motives for Your forgiveness, escape from all sins, reward for every good deed, and make me worthy of paradise and protect me from the Hell fire.
+It is Sunnah to jog between the two green slopes (jogging is only for men) where the pilgrim invokes: “ Our Lord! Grant us good in this world and good in the Hereafter and save us from the torture of Hell. My Lord! Forgive and have mercy, pardon and favor us, pass over what You know. You are the All Glorious, the All Generous. My Lord! I beg You for guidance, piety, chastity and self – sufficiency. My Lord! Support me in praising, thanking and worshipping You”.
+	    
+	</string>
+	<string name="Ifradline7">
+	    When he reaches Al-Marwa, he would have completed one round. He completes seven rounds starting initially from Al-Safa and concluding finally at Al-Marwa. When the pilgrim stands at Al-Marwa, he recites: “Indeed as-Safa and al-Marwa are among the symbols of Allah………..etc”
+He also utters the same supplications he mentioned at Al-Safa. The pilgrim utters He invokes after he concludes sa\‘y: “ Our Lord! Accept this from us, grant us safety, pardon us and support us to obey and praise You”.
+The 11th – 12th – 13th of Dhul\'hijjah
+The 11th \– 12th days The called (first and second day of Ayyam al-Tashriq)
+In Mina the pilgrim throws the three Jamarat on this day . It is sunnah to start by Al-Jamara Al-Soughra, then Al-Wusta and afterwards Al-Kubra (jamret – al-Aqaba). He throws each one with seven pebbles saying at each throw: “ (in the name of Allah), (Allah is the Greatest), in defiance and condemnation of satan and his party and for Allah\’s (the Most Gracious’) satisfaction”. He invokes after each jamra except for Jamret al-Aqaba. He raises his hands in the direction of the Ka\‘bah and says salutations upon the prophet (peace be upon him), and invokes for his needs and says: “O Allah! Make my Hajj righteous, my sin pardoned, my deed beneficial and accepted and a trade that will never fail”.The time of Ramy (Throwing) is from Al-Zawal till the sunrise of the next day but in Sunnah (prophetic tradition) it is between noon and sunset.
+Jamret al-Aqaba is thrown while the pilgrim stands in front of al-jamra, with Mina on his right and the road to Makkah on his left. Whereas Ramy from over the bridge can be performed from any direction.
+As for al-Jamra al-Soughra and al-Wusta, they can be thrown from all directions.
+	    
+	</string>
+	<string name="Ifradline8">
+	    The 13th day (The third day of Ayyam al-Tashriq)
+If the pilgrm remains late in Mina till the sunset of the third day of Ayyam al-Nahr (sacrifice), then he must throw the three jamarat on the fourth day and the time of Ramy (throwing) is from sunrise till sunset.
+“(And remember Allah during [specific] numbered days. Then whoever hastens [his departure] in two days – there is no sin upon him; and whoever delays [until the third] – there is no sin upon him - for him who fears Allah. And fear Allah and know that unto Him you will be gathered”)
+
+Then pilgrims leave in haste to Makkah for Tawaf Al–Wada
+If the pilgrim wants to travel, he goes to circumambulate around The House without  sa\‘y. This kind of Tawaf is called Tawaf al-Wada (Farewell Tawaf) and is an obligation. Then he prays two rak\‘as of Tawaf  After that, and invokes Allah for whatever he wishes in this world and the Hereafter. He starts by praising, glorifying and saluting the prophet (peace be upon him) and ends it in the same way and invokes: “O Allah! The House is Yours and the slave is Yours – son of Your slave and maid – You have carried me on those which You subjected to me of Your creatures and enabled me with Your graces and supported me to perform Your rites – so if You are pleased with me increase my share of Your satisfaction – or favour me with Your approval and pleasure out of Your pure grace. You are the Lord of Grace abounding.
+I am leaving with Your permission without exchanging You or Your House or turning away from You or Your House.
+O Allah! Accompany me with health in my body, protection for my faith and make better my return to You, provide me with Your obedience as long as I live, and gather to me the goodness of both this world and the Hereafter. You are over all things Competent.”
+O Allah, grant me many returns, time after time to visit Your Sacred House and make me among those who are accepted by You – You are full of Majesty, Bounty and Honour 
+O Allah! Do not make this pilgrimage of mine the last visit to Your Sacred House – You are The Most Merciful of the merciful”
+	    \n\n\n\n\n\n\n\n\n\n
+	</string>
+	<string name="Qiranline1">
+	    <b>Qiran Hajj</b>
+
+(Qiran) means that the pilgrim enters the state of Ihram for Hajj and \‘Umrah together (i.e. to enter in a state of Ihram for both Hajj and \‘Umrah) from the Miqat, completes the rituals of \‘Umrah, then remain in the state of Ihram in Makkah till the 8th. of Dhul-Hijja, which is the start of the Hajj. He performs the Hajj rituals then is released from Ihram.
+(Qiran) is so called because the pilgrim has joined together between the Hajj and \‘Umrah during the months of Hajj in one trip and with one intention.
+
+Allah said:
+“Indeed, the first House [of worship] established for mankind was that at Makkah – blessed and a guidance for the worlds. In it are clear signs [such as] the standing place of Abraham. And whoever enters it shall be safe. And [due] to Allah from the people is a pilgrimage to the House – for whoever is able to find thereto a way. But whoever disbelieves – then indeed, Allah is free from need of the worlds.”
+Before the 8th of Dhul\'hijjah
+1)	Ihram
+2)	Tawaf of \‘Umrah At the beginning of Tawaf, it is recommended for the pilgrim to face the Ka\'bah such that the Black Stone is on his right. Then he moves to position himself before the Black Stone. He starts from the brown marble line saying:
+" In the name of Allah, Allah is the Greatest. O Allah! Having faith in you, confirming the truthfulness of Your Holy Book, fulfilling Your promise and following the Sunnah of Your Prophet (peace be upon him)". 
+Tawaf is performed for seven rounds 
+	\n    
+	</string>
+	<string name="Qiranline2">
+	   <b>The Two Rak\'ahs of Tawaf:</b> 
+fter completing Tawaf, the pilgrim prays two rak\'ahs of Tawaf behind Maqam Ibrahim (the standing place of Ibrahim) (may peace be upon him) or in any place in the Haram; even at the end of the Haram it is permissible in case the Haram is over-crowded.
+In the first rak\'ah he recites the Surah of "Al Kafiroon", and in the second rak\'ah he recites Surah "Al Ikhlas" … after "Al Fatiha". he make Du\‘a after the prayer: "O Allah! You invited Your slaves to Your Sacred House, and I came in response to Your call begging for Your Mercy and beseeching Your Content, and You have granted me my quest, so forgive me. You are over all things Competent".
+
+4)	Sa\‘y  of \‘Umrah between Safa and Marwa:
+
+The Pilgrim ascends the mount of Al-Safa so as to see the Ka\‘bah (if possible) from the Safa door. While ascending he recites:
+(\‘Indeed as-Safa and al-Marwa are among the symbols of Allah. So whoever makes Hajj [pilgrimage] to the House or performs \`Umrah - there no blame upon him for walking between them. And whoever volunteers good - then indeed, Allah is appreciative and knowing”)
+Then he repeats this supplication for three times: (Allah is the Greatest, Allah is the Greatest. Allah is the Greatest and all praise belongs to Him (Allah is the Greatest for leading us to the right way and all praise belongs to Him for His offerings).
+(there is no God except Allah, Alone with no partner). He is Lord of everything. All praise belongs to Him who gives life and inflicts death, all good is bestowed by Him and He empowers all things. He has kept His promise, aided His servant, empowered his troops and defeated the allies Alone.
+There is no god but Allah, we do not worship but Him with utmost sincerity even if the disbelievers detest it.
+O Allah! You told us \“invoke me, I\’ll respond to you\” and You do not break your promise, so I beseech You as You guided me to Al Islam not to strip it from me till You inflict death on me as a true Muslim (three times).
+Then he utters salutations in praise of our prophet Muhammad (peace be upon him) and invokes when he descends from Al-Safa at each round: O Allah! I pray for the causes of Your mercy, motives for Your forgiveness, escape from all sins, reward for every good deed, and make me worthy of paradise and protect me from the Hell fire.
+It is Sunnah to jog between the two green slopes (jogging is only for men) where the pilgrim invokes: “ Our Lord! Grant us good in this world and good in the Hereafter and save us from the torture of Hell. My Lord! Forgive and have mercy, pardon and favor us, pass over what You know. You are the All Glorious, the All Generous. My Lord! I beg You for guidance, piety, chastity and self – sufficiency. My Lord! Support me in praising, thanking and worshipping You”.
+	 \n   
+	</string>
+	<string name="Qiranline3">
+	    When he reaches Al-Marwa, he would have completed one round. He completes seven rounds starting initially from Al-Safa and concluding finally at Al-Marwa. When the pilgrim stands at Al-Marwa, he recites: “Indeed as-Safa and al-Marwa are among the symbols of Allah………..etc”
+He also utters the same supplications he mentioned at Al-Safa. The pilgrim utters He invokes after he concludes sa\‘y: “ Our Lord! Accept this from us, grant us safety, pardon us and support us to obey and praise You”.
+
+5)	Staying in Mecca  and he remains in the state of ihram  till the 8th of Dhul\'hijjah
+The pilgrim makes the best use of this period by:
+- Praying (performing Salah) as often as possible in Al-Masjid Al-Haram (each prayer in Al-Masjid Al-Haram equals one hundred thousand Salah prayer).
+- Performing Tawaf as often as possible as Tawaf for Al Afaqi is one of the best acts of worship in Al-Masjid Al-Haram.
+\n	    
+	</string>
+	<string name="Qiranline4">
+	    
+<b>The 8th of Dhul\'hijjah</b>
+He goes to Mina after Fajr prayer where he prays Zuhr – Asr – Maghrib – Isha and Fajr of the 9th day While going to Mina, the pilgrim says:
+("O Allah! In You is my hope, and to You I supplicate. So make my best hopes come true, forgive me, grant me a favor as You bestowed upon Your obedient servants, You are over all things Competent". In Mina, the pilgrim invocations and saying
+"Our Lord, give us in this world [that which is] good and in the Hereafter [that which is] good and protect us from the punishment of the Fire".
+It is a Sunnah (prophetic tradition) to stay for a while and pray in Al-Khayf mosque (in Mina).
+The 9th of Dhul\'hijjah
+He goes to Arafat after performing fajr prayer and says on his way:
+("O Allah! I headed towards You, seeking for Your Generous Face, so forgive my sin, accept my Hajj and have mercy on me, You are over all things Competent". The pilgrim increases the repetition of Talbiyah and the recitation of the Holy Qur\'an especially: "Our Lord, give us in this world good and in the Hereafter good and protect us from the punishment of the Fire".
+Arrival to Arafat he stands in Arafat, Whenever he looks at the Mount of Mercy he praises Allah and says: "Allahu Akbar" "Allah is the greatest".
+It is a Sunnah to go to the Namirah Mosque to listen to the sermon, and he combines Zuhr and Asr prayers in advance at the time of Zuhr, with one Azan and two Iqamas, praying in congregation with the Imam without performing Sunnah prayers in between
+	    \n
+	</string>
+	<string name="Qiranline5">
+	    <b>Descending from Arafah to Muzdalifah after sunset </b>\n
+	     reciting Talbiyah and Takbir, praising, glorifiying and saying: “Allahu Akbar, Allahu Akbar, Allahu Akbar (Allah is the Greatest) three times La ilaha illa Allah (there is no god but Allah), wa lillah el hamd (praise be to Allah)”. He says: “O Allah! To You I aspire, for Your Majesty I pray, so accept my act of worship, guide me, provide me in it with more good than I ask for and never let me down, You are Allah the Most Bountiful, the Most Generous”. It is advised to say Du\‘a recitations, Talbiyah and read what he can from the Holy Qur\’an. “But when you depart from \‘Arafat, remember Allah at al- Mash\‘ar al-Haram. And remember Him, as He has guided you, for indeed, you were before that among those astray. Then depart from the place from where [all] the people depart and ask forgiveness of Allah. Indeed, Allah is Forgiving and Merciful”. “O Allah! I ask You for the preludes (beginnings) of all blessings and its results, combinations, start and end, its outward and inward, and grant me the highest degrees in Paradise, and that You set right for me all my affairs, and that You keep away from me all evil, for there is none who does that but You, and no one offers it generously but You”.
+	</string>
+	<string name="Qiranline6">
+	    Then he combines Maghrib and Isha prayer  together by one azan and an Iqama  and he delays the Sunnah prayer for Maghrib, Isha and Witr till after he prays Isha. Then the pilgrim gathers 70 pebbles (small stones which are bigger than the size of chick-pea and smaller than a hazelnut) for throwing all the Jamarat. When the day breaks, it is a Sunnah to pray Fajr prayer at the beginning then he says: “Allahu Akbar, Allahu Akbar, Allahu Akbar there is no god but Allah. Allahu Akbar  ,Allah is the greatest and praise be to Allah\". He says salutations upon our Prophet Muhammad (peace be upon him) and he supplicates while raising both hands to heaven.
+<b>The 10th of Dhul\'hijjah</b>
+1)	 Heading to Mina After Fajr prayer and before sunrise 
+saying Talbiyah as often as he can. It is desirable for him to say while marching: \“O Allah! To You I come, from Your punishment I fear, to You I head feeling awe from Your wrath. O Allah accept my act of worship, increase my reward, have mercy on my supplication and with Your grace grant me my quest”. He also says salutations upon the Prophet peace be upon him. When he reaches Wadi Muhassar, he fastens his march in that area and says when he comes to Mina:
+\“Praise be to Allah who enabled me to get here safe and healthy sound. O Allah! I came to Mina as Your slave and within your control, so I pray to You to favour me with whatever You\’ve favoured Your obedient pious men. O Allah! Save me from deprivation and calamity in my faith, You are the Most Merciful of the merciful\".
+2)	Ramy (throwing) of Jamrat al\-Aqaba
+	    \n
+	</string>
+	<string name="Qiranline7">
+	    The pilgrim throws seven pebbles and says at each casting: \“In the name of Allah, Allah is the Greatest, in defiance and condemnation of satan and his party and for Allah’s satisfaction”.The pilgrim interrupts Talbiyah when he starts al–Ramy. 
+The Time of Ramy is from the dawn of yawm al – Nahr (Day of sacrifice) till the dawn of the next day but in the prophetic tradition (Al sunnah) Ramy is due between sunrise till zawal, and Ramy is allowed after sunset and until dawn but it is Makrouh (disliked) except for an acceptable excuse. Throwing of el-Jamra (pebble) so as to hit the stone pillar of al–Jamra or to fall within the circle surrounding it. The pilgrim stands facing al–Jamra so as to put Mina on his right and Makkah Road on his left while al–Ramy from over the bridge can be performed from any direction (as in the picture).
+3)	Slaying of al-Hady (animal for sacrifice):
+It is a duty for al-Mutamatti and al–Qarin only and nowadays there are establishments in Makkah, which act on behalf of the pilgrim in buying al-Hady (the ram), slaying and distributing it to the poor around the world. But in case he cannot afford it he must fast for three days in Hajj before the day of Arafat and seven days when he returns home.
+
+4)	Shaving or shortening of hair:
+It is a must to shave or shorten the hair by at least the amount of a fingertip (2 c.m) but shaving the head completely with a razor, As for a woman she shortens her hair just a little.It is advised when shaving to say: “ Praise be to Allah for his right guidance, praise be to Allah for the favors He bestowed upon us. O Allah! This is my forehead (means I am totally obedient), so accept from me and forgive my wrong deeds”. “ O Allah! Forgive me and the shavers and the shortners. My Lord, You are ample in forgiveness – Ameen”. After he finishes shaving or clipping his hair, he says: (praise be to Allah who helped us to perform this act of worship).
+When the pilgrim does that, he releases himself for the smallest release (al-Tahalul al-asghar) from Ihram. He is allowed to do whatever was not allowed during Ihram except for sexual intercourse and its causes, which are not allowed till he goes to cicumambulate round the Ka\‘bah for Tawaf – al-Ifadah.
+5)	Tawaf Al-Ifadah
+After returning from Mina to Makkah al-Mukaramah the pilgrim circumambulates round the Ka\‘bah for seven rounds and prays two rak\‘as of Tawaf. Then he comes to Zamzam and goes pacing between Safa and Marwa for sa\‘y unless he had performed sa\‘y before.
+After performing Tawaf-al-Ifadah, the pilgrim releases himself from Ihram for the biggest release (al-Tahalul al-akbar) i.e. the pilgrim is allowed to do everything, which was previously restricted due to Ihram.
+
+6)	Sa\‘y between Safa and Marwa:
+
+The Pilgrim ascends the mount of Al-Safa so as to see the Ka\‘bah (if possible) from the Safa door. While ascending he recites:
+(\‘Indeed as-Safa and al-Marwa are among the symbols of Allah. So whoever makes Hajj [pilgrimage] to the House or performs \`Umrah - there no blame upon him for walking between them. And whoever volunteers good - then indeed, Allah is appreciative and knowing”)
+Then he repeats this supplication for three times: (Allah is the Greatest, Allah is the Greatest. Allah is the Greatest and all praise belongs to Him (Allah is the Greatest for leading us to the right way and all praise belongs to Him for His offerings).
+(there is no God except Allah, Alone with no partner). He is Lord of everything. All praise belongs to Him who gives life and inflicts death, all good is bestowed by Him and He empowers all things. He has kept His promise, aided His servant, empowered his troops and defeated the allies Alone.
+There is no god but Allah, we do not worship but Him with utmost sincerity even if the disbelievers detest it.
+O Allah! You told us “invoke me, I\’ll respond to you” and You do not break your promise, so I beseech You as You guided me to Al Islam not to strip it from me till You inflict death on me as a true Muslim (three times).
+Then he utters salutations in praise of our prophet Muhammad (peace be upon him) and invokes when he descends from Al-Safa at each round: O Allah! I pray for the causes of Your mercy, motives for Your forgiveness, escape from all sins, reward for every good deed, and make me worthy of paradise and protect me from the Hell fire.
+It is Sunnah to jog between the two green slopes (jogging is only for men) where the pilgrim invokes: “ Our Lord! Grant us good in this world and good in the Hereafter and save us from the torture of Hell. My Lord! Forgive and have mercy, pardon and favor us, pass over what You know. You are the All Glorious, the All Generous. My Lord! I beg You for guidance, piety, chastity and self – sufficiency. My Lord! Support me in praising, thanking and worshipping You”.
+	    \n
+	</string>
+	<string name="Qiranline8">
+	    When he reaches Al-Marwa, he would have completed one round. He completes seven rounds starting initially from Al-Safa and concluding finally at Al-Marwa. When the pilgrim stands at Al-Marwa, he recites: “Indeed as-Safa and al-Marwa are among the symbols of Allah………..etc”
+He also utters the same supplications he mentioned at Al-Safa. The pilgrim utters He invokes after he concludes sa\‘y: “ Our Lord! Accept this from us, grant us safety, pardon us and support us to obey and praise You”.
+The 11th – 12th – 13th of Dhul\'hijjah
+The 11th – 12th days The called (first and second day of Ayyam al-Tashriq)
+In Mina the pilgrim throws the three Jamarat on this day . It is sunnah to start by Al-Jamara Al-Soughra, then Al-Wusta and afterwards Al-Kubra (jamret – al-Aqaba). He throws each one with seven pebbles saying at each throw: “ (in the name of Allah), (Allah is the Greatest), in defiance and condemnation of satan and his party and for Allah’s (the Most Gracious’) satisfaction”. He invokes after each jamra except for Jamret al-Aqaba. He raises his hands in the direction of the Ka\‘bah and says salutations upon the prophet (peace be upon him), and invokes for his needs and says: “O Allah! Make my Hajj righteous, my sin pardoned, my deed beneficial and accepted and a trade that will never fail”.The time of Ramy (Throwing) is from Al-Zawal till the sunrise of the next day but in Sunnah (prophetic tradition) it is between noon and sunset.
+Jamret al-Aqaba is thrown while the pilgrim stands in front of al-jamra, with Mina on his right and the road to Makkah on his left. Whereas Ramy from over the bridge can be performed from any direction.
+As for al-Jamra al-Soughra and al-Wusta, they can be thrown from all directions.
+	    
+	</string>
+	<string name="Qiranline9">
+	    The 13th day (The third day of Ayyam al-Tashriq)
+If the pilgrm remains late in Mina till the sunset of the third day of Ayyam al-Nahr (sacrifice), then he must throw the three jamarat on the fourth day and the time of Ramy (throwing) is from sunrise till sunset.
+“(And remember Allah during [specific] numbered days. Then whoever hastens [his departure] in two days – there is no sin upon him; and whoever delays [until the third] – there is no sin upon him - for him who fears Allah. And fear Allah and know that unto Him you will be gathered”)
+
+Then pilgrims leave in haste to Makkah for Tawaf Al–Wada
+If the pilgrim wants to travel, he goes to circumambulate around The House without  sa‘y. This kind of Tawaf is called Tawaf al-Wada (Farewell Tawaf) and is an obligation. Then he prays two rak‘as of Tawaf  After that, and invokes Allah for whatever he wishes in this world and the Hereafter. He starts by praising, glorifying and saluting the prophet (peace be upon him) and ends it in the same way and invokes: “O Allah! The House is Yours and the slave is Yours – son of Your slave and maid – You have carried me on those which You subjected to me of Your creatures and enabled me with Your graces and supported me to perform Your rites – so if You are pleased with me increase my share of Your satisfaction – or favour me with Your approval and pleasure out of Your pure grace. You are the Lord of Grace abounding.
+I am leaving with Your permission without exchanging You or Your House or turning away from You or Your House.
+O Allah! Accompany me with health in my body, protection for my faith and make better my return to You, provide me with Your obedience as long as I live, and gather to me the goodness of both this world and the Hereafter. You are over all things Competent.”
+O Allah, grant me many returns, time after time to visit Your Sacred House and make me among those who are accepted by You – You are full of Majesty, Bounty and Honour 
+O Allah! Do not make this pilgrimage of mine the last visit to Your Sacred House – You are The Most Merciful of the merciful”
+	    \n\n\n\n\n\n\n\n\n\n\n\n
+	</string>
+	<string name="tamatuline1">
+	   <b>Tamattu\‘Hajj</b> 
+
+means that the pilgrim enters the state of Ihram for \‘Umrah from the Miqat of his country, completes the \‘Umrah, then later enters the state of Ihram for Hajj from Makkah.
+The pilgrim is then called (Mutamatti\‘) because during the period between \‘Umrah and Hajj, he is allowed to enjoy what is normally forbidden due to Ihram, such as wearing normal clothes, perfume, contact with wife…
+Allah said:
+“Indeed, the first House [of worship] established for mankind was that at Makkah – blessed and a guidance for the worlds. In it are clear signs [such as] the standing place of Abraham. And whoever enters it shall be safe. And [due] to Allah from the people is a pilgrimage to the House – for whoever is able to find thereto a way. But whoever disbelieves – then indeed, Allah is free from need of the worlds.”
+Before the 8th of Dhul\'hijjah
+1)	Ihram
+2)	Tawaf of \‘Umrah At the beginning of Tawaf, it is recommended for the pilgrim to face the Ka\'bah such that the Black Stone is on his right. Then he moves to position himself before the Black Stone. He starts from the brown marble line saying:
+" In the name of Allah, Allah is the Greatest. O Allah! Having faith in you, confirming the truthfulness of Your Holy Book, fulfilling Your promise and following the Sunnah of Your Prophet (peace be upon him)". 
+Tawaf is performed for seven rounds 
+	    \n
+	</string>
+	<string name="tamatuline2">
+	    3)	 The Two Rak\'ahs of Tawaf:
+fter completing Tawaf, the pilgrim prays two rak\'ahs of Tawaf behind Maqam Ibrahim (the standing place of Ibrahim) (may peace be upon him) or in any place in the Haram; even at the end of the Haram it is permissible in case the Haram is over-crowded.
+In the first rak\'ah he recites the Surah of "Al Kafiroon", and in the second rak\'ah he recites Surah "Al Ikhlas" … after "Al Fatiha". he make Du\‘a after the prayer: "O Allah! You invited Your slaves to Your Sacred House, and I came in response to Your call begging for Your Mercy and beseeching Your Content, and You have granted me my quest, so forgive me. You are over all things Competent".
+
+4)	Sa\‘y  of \‘Umrah between Safa and Marwa:
+
+The Pilgrim ascends the mount of Al-Safa so as to see the Ka\‘bah (if possible) from the Safa door. While ascending he recites:
+(\‘Indeed as-Safa and al-Marwa are among the symbols of Allah. So whoever makes Hajj [pilgrimage] to the House or performs \`Umrah - there no blame upon him for walking between them. And whoever volunteers good - then indeed, Allah is appreciative and knowing”)
+Then he repeats this supplication for three times: (Allah is the Greatest, Allah is the Greatest. Allah is the Greatest and all praise belongs to Him (Allah is the Greatest for leading us to the right way and all praise belongs to Him for His offerings).
+(there is no God except Allah, Alone with no partner). He is Lord of everything. All praise belongs to Him who gives life and inflicts death, all good is bestowed by Him and He empowers all things. He has kept His promise, aided His servant, empowered his troops and defeated the allies Alone.
+There is no god but Allah, we do not worship but Him with utmost sincerity even if the disbelievers detest it.
+O Allah! You told us “invoke me, I\’ll respond to you” and You do not break your promise, so I beseech You as You guided me to Al Islam not to strip it from me till You inflict death on me as a true Muslim (three times).
+Then he utters salutations in praise of our prophet Muhammad (peace be upon him) and invokes when he descends from Al-Safa at each round: O Allah! I pray for the causes of Your mercy, motives for Your forgiveness, escape from all sins, reward for every good deed, and make me worthy of paradise and protect me from the Hell fire.
+It is Sunnah to jog between the two green slopes (jogging is only for men) where the pilgrim invokes: “ Our Lord! Grant us good in this world and good in the Hereafter and save us from the torture of Hell. My Lord! Forgive and have mercy, pardon and favor us, pass over what You know. You are the All Glorious, the All Generous. My Lord! I beg You for guidance, piety, chastity and self – sufficiency. My Lord! Support me in praising, thanking and worshipping You”.
+	\n    
+	</string>
+	<string name="tamatuline3">
+	    When he reaches Al-Marwa, he would have completed one round. He completes seven rounds starting initially from Al-Safa and concluding finally at Al-Marwa. When the pilgrim stands at Al-Marwa, he recites: “Indeed as-Safa and al-Marwa are among the symbols of Allah………..etc”
+He also utters the same supplications he mentioned at Al-Safa. The pilgrim utters He invokes after he concludes sa\‘y: “ Our Lord! Accept this from us, grant us safety, pardon us and support us to obey and praise You”.
+5)	Shaving or shortening of hair:
+By shaving his hair, or shortening the length of a fingertip (2 cm), the pilgrim is released from his Ihram and all things become lawful, including husband and wife relations, but excluding hunting. The pilgrim then remains in Makkah till the 8th. day of Dhul-Hijja.
+6)	Staying in Mecca and in the state of not  ihram till the 8th of Dhul Hijjah
+The pilgrim makes the best use of this period by:
+- Praying (performing Salah) as often as possible in Al-Masjid Al-Haram (each prayer in Al-Masjid Al-Haram equals one hundred thousand Salah prayer).
+- Performing Tawaf as often as possible as Tawaf for Al Afaqi is one of the best acts of worship in Al-Masjid Al-Haram.
+	    \n
+	</string>
+	<string name="tamatuline4">
+	    
+<b>The 8th of Dhul\'hijjah</b>
+1)	The pilgrim performing Tammattu\‘ Hajj puts on his Ihram dress again and prays two rak\‘as of Ihram declaring his intention of offering Hajj by saying:
+
+“O Allah! I want to perform Hajj so make it easy for me and accept it from me, I intend to offer Hajj and entered the state of Ihram for Allah, so if I am detained by anything, my release from Ihram shall be where I am detained”. He recites al – Talbiyah for three times “Labbayk Allahum Labbayk” (“ O Allah I\’m here……) And concludes by saying salutations upon our prophet Muhammad (peace be upon him).
+
+2)	He goes to Mina after Fajr prayer where he prays Zuhr – Asr – Maghrib – Isha and Fajr of the 9th day While going to Mina, the pilgrim says:
+("O Allah! In You is my hope, and to You I supplicate. So make my best hopes come true, forgive me, grant me a favor as You bestowed upon Your obedient servants, You are over all things Competent". In Mina, the pilgrim invocations and saying
+"Our Lord, give us in this world [that which is] good and in the Hereafter [that which is] good and protect us from the punishment of the Fire".
+It is a Sunnah (prophetic tradition) to stay for a while and pray in Al-Khayf mosque (in Mina).
+The 9th of Dhul\'hijjah
+He goes to Arafat after performing fajr prayer and says on his way:
+("O Allah! I headed towards You, seeking for Your Generous Face, so forgive my sin, accept my Hajj and have mercy on me, You are over all things Competent". The pilgrim increases the repetition of Talbiyah and the recitation of the Holy Qur\'an especially: "Our Lord, give us in this world good and in the Hereafter good and protect us from the punishment of the Fire".
+Arrival to Arafat he stands in Arafat, Whenever he looks at the Mount of Mercy he praises Allah and says: "Allahu Akbar" "Allah is the greatest".
+It is a Sunnah to go to the Namirah Mosque to listen to the sermon, and he combines Zuhr and Asr prayers in advance at the time of Zuhr, with one Azan and two Iqamas, praying in congregation with the Imam without performing Sunnah prayers in between
+	    \n
+	</string>
+	<string name="tamatuline5">
+	    <b>Descending from Arafah to Muzdalifah </b>after sunset  reciting Talbiyah and Takbir, praising, glorifiying and saying: “Allahu Akbar, Allahu Akbar, Allahu Akbar (Allah is the Greatest) three times La ilaha illa Allah (there is no god but Allah), wa lillah el hamd (praise be to Allah)”. He says: “O Allah! To You I aspire, for Your Majesty I pray, so accept my act of worship, guide me, provide me in it with more good than I ask for and never let me down, You are Allah the Most Bountiful, the Most Generous”. It is advised to say Du\‘a recitations, Talbiyah and read what he can from the Holy Qur\’an. “But when you depart from \‘Arafat, remember Allah at al- Mash\‘ar al-Haram. And remember Him, as He has guided you, for indeed, you were before that among those astray. Then depart from the place from where [all] the people depart and ask forgiveness of Allah. Indeed, Allah is Forgiving and Merciful”. “O Allah! I ask You for the preludes (beginnings) of all blessings and its results, combinations, start and end, its outward and inward, and grant me the highest degrees in Paradise, and that You set right for me all my affairs, and that You keep away from me all evil, for there is none who does that but You, and no one offers it generously but You”. \n
+	</string>
+	<string name="tamatuline6">
+	    Then he combines Maghrib and Isha prayer  together by one azan and an Iqama  and he delays the Sunnah prayer for Maghrib, Isha and Witr till after he prays Isha. Then the pilgrim gathers 70 pebbles (small stones which are bigger than the size of chick-pea and smaller than a hazelnut) for throwing all the Jamarat. When the day breaks, it is a Sunnah to pray Fajr prayer at the beginning then he says: “Allahu Akbar, Allahu Akbar, Allahu Akbar there is no god but Allah. Allahu Akbar  ,Allah is the greatest and praise be to Allah". He says salutations upon our Prophet Muhammad (peace be upon him) and he supplicates while raising both hands to heaven.\n
+<b>The 10th of Dhul\'hijjah</b>
+1)	 Heading to Mina After Fajr prayer and before sunrise 
+saying Talbiyah as often as he can. It is desirable for him to say while marching: “O Allah! To You I come, from Your punishment I fear, to You I head feeling awe from Your wrath. O Allah accept my act of worship, increase my reward, have mercy on my supplication and with Your grace grant me my quest”. He also says salutations upon the Prophet peace be upon him. When he reaches Wadi Muhassar, he fastens his march in that area and says when he comes to Mina:
+“Praise be to Allah who enabled me to get here safe and healthy sound. O Allah! I came to Mina as Your slave and within your control, so I pray to You to favour me with whatever You\’ve favoured Your obedient pious men. O Allah! Save me from deprivation and calamity in my faith, You are the Most Merciful of the merciful".
+2)	Ramy (throwing) of Jamrat al-Aqaba
+	\n    
+	</string>
+	<string name="tamatuline7">
+	    The pilgrim throws seven pebbles and says at each casting: “In the name of Allah, Allah is the Greatest, in defiance and condemnation of satan and his party and for Allah\’s satisfaction”.The pilgrim interrupts Talbiyah when he starts al–Ramy. 
+The Time of Ramy is from the dawn of yawm al – Nahr (Day of sacrifice) till the dawn of the next day but in the prophetic tradition (Al sunnah) Ramy is due between sunrise till zawal, and Ramy is allowed after sunset and until dawn but it is Makrouh (disliked) except for an acceptable excuse. Throwing of el-Jamra (pebble) so as to hit the stone pillar of al–Jamra or to fall within the circle surrounding it. The pilgrim stands facing al–Jamra so as to put Mina on his right and Makkah Road on his left while al–Ramy from over the bridge can be performed from any direction (as in the picture).
+3)	Slaying of al-Hady (animal for sacrifice):
+It is a duty for al-Mutamatti and al–Qarin only and nowadays there are establishments in Makkah, which act on behalf of the pilgrim in buying al-Hady (the ram), slaying and distributing it to the poor around the world. But in case he cannot afford it he must fast for three days in Hajj before the day of Arafat and seven days when he returns home.
+
+4)	Shaving or shortening of hair:
+It is a must to shave or shorten the hair by at least the amount of a fingertip (2 c.m) but shaving the head completely with a razor, As for a woman she shortens her hair just a little.It is advised when shaving to say: “ Praise be to Allah for his right guidance, praise be to Allah for the favors He bestowed upon us. O Allah! This is my forehead (means I am totally obedient), so accept from me and forgive my wrong deeds”. “ O Allah! Forgive me and the shavers and the shortners. My Lord, You are ample in forgiveness – Ameen”. After he finishes shaving or clipping his hair, he says: (praise be to Allah who helped us to perform this act of worship).
+When the pilgrim does that, he releases himself for the smallest release (al-Tahalul al-asghar) from Ihram. He is allowed to do whatever was not allowed during Ihram except for sexual intercourse and its causes, which are not allowed till he goes to cicumambulate round the Ka‘bah for Tawaf – al-Ifadah.
+5)	Tawaf Al-Ifadah
+After returning from Mina to Makkah al-Mukaramah the pilgrim circumambulates round the Ka\‘bah for seven rounds and prays two rak\‘as of Tawaf. Then he comes to Zamzam and goes pacing between Safa and Marwa for sa\‘y unless he had performed sa\‘y before.
+After performing Tawaf-al-Ifadah, the pilgrim releases himself from Ihram for the biggest release (al-Tahalul al-akbar) i.e. the pilgrim is allowed to do everything, which was previously restricted due to Ihram.
+
+6)	Sa\‘y between Safa and Marwa:
+
+The Pilgrim ascends the mount of Al-Safa so as to see the Ka\‘bah (if possible) from the Safa door. While ascending he recites:
+(\‘Indeed as-Safa and al-Marwa are among the symbols of Allah. So whoever makes Hajj [pilgrimage] to the House or performs \`Umrah - there no blame upon him for walking between them. And whoever volunteers good - then indeed, Allah is appreciative and knowing”)
+Then he repeats this supplication for three times: (Allah is the Greatest, Allah is the Greatest. Allah is the Greatest and all praise belongs to Him (Allah is the Greatest for leading us to the right way and all praise belongs to Him for His offerings).
+(there is no God except Allah, Alone with no partner). He is Lord of everything. All praise belongs to Him who gives life and inflicts death, all good is bestowed by Him and He empowers all things. He has kept His promise, aided His servant, empowered his troops and defeated the allies Alone.
+There is no god but Allah, we do not worship but Him with utmost sincerity even if the disbelievers detest it.
+O Allah! You told us “invoke me, I\’ll respond to you” and You do not break your promise, so I beseech You as You guided me to Al Islam not to strip it from me till You inflict death on me as a true Muslim (three times).
+Then he utters salutations in praise of our prophet Muhammad (peace be upon him) and invokes when he descends from Al-Safa at each round: O Allah! I pray for the causes of Your mercy, motives for Your forgiveness, escape from all sins, reward for every good deed, and make me worthy of paradise and protect me from the Hell fire.
+It is Sunnah to jog between the two green slopes (jogging is only for men) where the pilgrim invokes: “ Our Lord! Grant us good in this world and good in the Hereafter and save us from the torture of Hell. My Lord! Forgive and have mercy, pardon and favor us, pass over what You know. You are the All Glorious, the All Generous. My Lord! I beg You for guidance, piety, chastity and self – sufficiency. My Lord! Support me in praising, thanking and worshipping You”.
+	    \n
+	</string>
+	<string name="tamatuline8">
+	    When he reaches Al-Marwa, he would have completed one round. He completes seven rounds starting initially from Al-Safa and concluding finally at Al-Marwa. When the pilgrim stands at Al-Marwa, he recites: “Indeed as-Safa and al-Marwa are among the symbols of Allah………..etc”
+He also utters the same supplications he mentioned at Al-Safa. The pilgrim utters He invokes after he concludes sa\‘y: “ Our Lord! Accept this from us, grant us safety, pardon us and support us to obey and praise You”.
+The 11th – 12th – 13th of Dhul\'hijjah
+The 11th – 12th days The called (first and second day of Ayyam al-Tashriq)
+In Mina the pilgrim throws the three Jamarat on this day . It is sunnah to start by Al-Jamara Al-Soughra, then Al-Wusta and afterwards Al-Kubra (jamret – al-Aqaba). He throws each one with seven pebbles saying at each throw: “ (in the name of Allah), (Allah is the Greatest), in defiance and condemnation of satan and his party and for Allah’s (the Most Gracious\’) satisfaction”. He invokes after each jamra except for Jamret al-Aqaba. He raises his hands in the direction of the Ka\‘bah and says salutations upon the prophet (peace be upon him), and invokes for his needs and says: “O Allah! Make my Hajj righteous, my sin pardoned, my deed beneficial and accepted and a trade that will never fail”.The time of Ramy (Throwing) is from Al-Zawal till the sunrise of the next day but in Sunnah (prophetic tradition) it is between noon and sunset.
+Jamret al-Aqaba is thrown while the pilgrim stands in front of al-jamra, with Mina on his right and the road to Makkah on his left. Whereas Ramy from over the bridge can be performed from any direction.
+As for al-Jamra al-Soughra and al-Wusta, they can be thrown from all directions.
+	    \n
+	</string>
+	<string name="tamatuline9">
+	    The 13th day (The third day of Ayyam al-Tashriq)\n
+If the pilgrm remains late in Mina till the sunset of the third day of Ayyam al-Nahr (sacrifice), then he must throw the three jamarat on the fourth day and the time of Ramy (throwing) is from sunrise till sunset.
+“(And remember Allah during [specific] numbered days. Then whoever hastens [his departure] in two days – there is no sin upon him; and whoever delays [until the third] – there is no sin upon him - for him who fears Allah. And fear Allah and know that unto Him you will be gathered”)
+
+Then pilgrims leave in haste to Makkah for Tawaf Al–Wada
+If the pilgrim wants to travel, he goes to circumambulate around The House without  sa\‘y. This kind of Tawaf is called Tawaf al-Wada (Farewell Tawaf) and is an obligation. Then he prays two rak\‘as of Tawaf  After that, and invokes Allah for whatever he wishes in this world and the Hereafter. He starts by praising, glorifying and saluting the prophet (peace be upon him) and ends it in the same way and invokes: “O Allah! The House is Yours and the slave is Yours – son of Your slave and maid – You have carried me on those which You subjected to me of Your creatures and enabled me with Your graces and supported me to perform Your rites – so if You are pleased with me increase my share of Your satisfaction – or favour me with Your approval and pleasure out of Your pure grace. You are the Lord of Grace abounding.
+I am leaving with Your permission without exchanging You or Your House or turning away from You or Your House.
+O Allah! Accompany me with health in my body, protection for my faith and make better my return to You, provide me with Your obedience as long as I live, and gather to me the goodness of both this world and the Hereafter. You are over all things Competent.”
+O Allah, grant me many returns, time after time to visit Your Sacred House and make me among those who are accepted by You – You are full of Majesty, Bounty and Honour 
+O Allah! Do not make this pilgrimage of mine the last visit to Your Sacred House – You are The Most Merciful of the merciful”
+	    \n\n\n\n\n\n\n\n\n\n\n
+	</string>
+	<string name="ar_Ifradline1">
+	    
+<b>الحاج المفرد</b> \n
+أن يحرم قاصدُ الحج ومن الميقات بنية الحج فقط ثم يلبي بعد ذلك, وبهذا يبقى محرماً حتى يقف بعرفة, ويرمي جمرة العقبة, ثم يتحلل من إحرامه.\n 
+
+قال الله تعالى:\n
+(الْحَجُّ أَشْهُرٌ مَعْلُومَاتٌ فَمَنْ فَرَضَ فِيهِنَّ الْحَجَّ فَلا رَفَثَ وَلا فُسُوقَ وَلا جِدَالَ فِي الْحَجِّ وَمَا تَفْعَلُوا مِنْ خَيْرٍ يَعْلَمْهُ اللَّهُ وَتَزَوَّدُوا فَإِنَّ خَيْرَ الزَّادِ التَّقْوَى وَاتَّقُونِ يَاأُولِي الْأَلْبَابِ).\n
+\nقبل الثامن من ذي الحجة
+1) الاحرام\n 
+2) طواف القدوم  :يستحب في بداية الطواف أن يستقبل الكعبة بحيث يكون الحجر الأسود عن يمينه ثم ينتقل ليستقبل الحجر و ينوي الطواف , يبدأ من خط المرمر البني ويقول:(بسم الله والله أكبر اللهم إيماناً بك وتصديقاً بكتابك ووفاء بعهدك وإتباعاً لسنة  نبيك) والطواف عبارة عن سبعة أشواط\n 
+3) ركعتا الطواف:\n
+بعد الانتهاء من الطواف يصلي ركعتي الطواف خلف مقام سيدنا إبراهيم عليه السلام ولو في آخر الحرم أو في أي مكان في الحرم جائز في حال الزحام.\n 
+يقرأ في الأولى قل يا أيها الكافرون.... وفي الثانية قل هو الله آحد....بعد الفاتحة ,يدعو بعد الصلاة: (اللهم إنك دعوت عبادك إلى بيتك, وقد جئت طالباً رحمتك, ومب\n
+تغياً رضوانك, وأنت مننت علي بذلك, فاغفر لي, إنك على كل شيء قدير).\n
+4) يبقى محرما في مكة حتى الثامن من ذي الحجة \n
+خلال هذه المدة يستغلها الحاج بـ:\n
+- كثرة الصلاة في المسجد الحرام (الصلاة بمائة ألف صلاة)\n
+- يكثر من الطواف، لأن الطواف للآفاقي أفضل العبادات في المسجد الحرام.\n 
+<b>الثامن من ذي الحجة</b>\n
+ينطلق إلى منى بعد صلاة الفجر يصلي بها الظهر – العصر – المغرب – العشاء – وفجر اليوم التاسع وعند التوجه إلى مِنى يقول:\n
+(اللهم إياك أرجو ولك أدعو فبلغني صالح أملي وأغفر لي وأمنن علي بما مننت به على أهل طاعتك، إنك على كل شيء قدير) وفي مِنى يكثر الحاج من الأذكار والقول:(ربنا آتنا في الدنيا حسنة وفي الآخرة حسنة وقنا عذاب النار)\n
+ويسن المكوث والصلاة في مسجد الخيف.\n
+<b>التاسع من ذي الحجة</b>\n
+الانطلاق إلى عرفات بعد صلاة الفجر ويقول في مسيره:\n
+)اللهم إليك توجهت, ووجهَك الكريمَ أردت فاجعل ذنبي مغفوراً وحجي مبرورا,ً وارحمني إنك على كل شيء قدير) ويكثر الحاج من التلبية وقراءة القرآن ومن قول ربنا آتنا في الدنيا حسنة...\n
+الوصول إلى عرفات يقف في عرفات , وإذا وقع بصره على جبل الرحمة يسبح الله ويكبره.\n
+يسن أن يتوجه إلى مسجد نمرة لسماع الخطبة, ويصلي الظهر والعصر جمع تقديم بوقت الظهر بآذان واحد و بإقامتين مع الإمام العام بدون أن يصلي السنن بينهما, والإكثار من الذكر والدعاء حتى غروب الشمس\n 
+	    \n
+	</string>
+	<string name="ar_Ifradline2">
+	    
+<b>الإفاضة من عرفات إلى مزدلفة</b>\n
+بعد الغروب ملبياً ومكبراً ومهللاً وحامداً ويقول:\n
+
+(الله أكبر الله أكبر الله أكبر، لا إله إلا الله والله أكبر، الله أكبر ولله الحمد(\n
+و يقول: \n
+(إليك اللهم أرغب, وإياك أرجو, فتقبل نسكي ووفقني, وارزقني فيه من الخير أكثر مما أطلب, ولا تخيبني, إنك أنت الله الجواد الكريم)ويستحب الإكثار من الدعاء والأذكار والتلبية وقراءة ما تيسر من القرآن\n
+)فَإِذَا أَفَضْتُمْ مِنْ عَرَفَاتٍ فَاذْكُرُوا اللَّهَ عِنْدَ الْمَشْعَرِ الْحَرَامِ وَاذْكُرُوهُ كَمَا هَدَاكُمْ وَإِنْ كُنْتُمْ مِنْ قَبْلِهِ لَمِنَ الضَّالِّين َ* ثُمَّ أَفِيضُوا مِنْ حَيْثُ أَفَاضَ النَّاسُ وَاسْتَغْفِرُوا اللَّهَ إِنَّ اللَّهَ غَفُورٌ رَحِيم(\n
+)اللهم إني أسألك فواتح الخير وخواتمه وجوامعه وأوله وآخره وظاهره وباطنه والدرجات العلا في الجنة, وأن تصلح لي شأني كله, وأن تصرف عني الشر كله, فإنه لا يفعل ذلك غيرك, ولا يجود به إلا أنت(\n
+ثم يصلي المغرب والعشاء بعد دخول وقت العشاء جمعاً بآذان واحد وإقامة واحدة ويؤخر سنة المغرب والعشاء والوتر إلى مابعد فرض العشاء , ثم يتزود الحاج بالحصيات وعددها 70 حصاة (فوق حجم الحمص و دون البندق) لرمي الجمرات كلها.\n
+إذا طلع الفجر يسن أن يصلي الصبح في أول وقتها، ثم يقول:\n
+(الله أكبر الله أكبر الله أكبر, لا إله إلا الله و الله أكبر, الله أكبر و لله الحمد) ويصلي على سيدنا محمد (صلى الله عليه وسلم) ويدعو رافعاً يديه إلى السماء.\n
+	</string>
+	<string name="ar_Ifradline3">
+	    
+<b>العاشر من ذي الحجة</b> \n
+1)	السير إلى مِنى بعد صلاة الصبح وقبل طلوع الشمس ويبذل جهده في الإكثار من التلبية، ويستحسن أن يقول في مسيره:\n
+(اللهم إليك أفضت، ومن عذابك أشفقت، وإليك توجهت، ومنك رهبت، اللهم تقبل نسكي، وأعظم أجري، وارحم تضرعي، واستجب دعوتي) ويصلي على النبي (صلى الله عليه وسلم) فإذا بلغ وادي محسر أسرع بقدر رمية حجر ويقول عند وصوله إلى مِنى:\n 
+(الحمد لله الذي بلغنيها سالماً معافى، اللهم هذه مِنى قد أتيتها وأنا عبدك، وفي قبضتك، أسألك أن تمن علي بما مننت به على أوليائك، اللهم إني أعوذ بك من الحرمان والمصيبة في ديني، يا أرحم الراحمين)\n
+2)	رمي جمرة العقبة \n
+يرمي الحاج سبع حصيات ويقول عند كل واحدة) :بسم الله، والله أكبر, رغماً للشيطان وحزبه وإرضاءً للرحمن( ويقطع الحاج التلبية بأول الرمي.\n
+وقت الرمي من فجر يوم النحر إلى فجر اليوم التالي ولكن السنة أن يكون الرمي ما بين طلوع الشمس إلى الزوال ويجوز الرمي بعد الغروب إلى الفجر لكن مع الكراهة إلا لعذر. رمي الجمرة بحيث تضرب الحصية في شاخص (عمود) الجمرة أو تقع في الدائرة المحيطة به, ويكون الحاج واقفاً مستقبل الجمرة بحيث يجعل مِنى عن يمينه وطرق مكة عن يساره, أما الرمي من فوق الجسر فمن أي جهة كانت.\n 
+	    \n
+	</string>
+	<string name="ar_Ifradline4">
+	    
+3)	الحلق والتقصير : \n
+جب حلق الشعر أو تقصيره قدر الأنملة (2 سم) ويستحب الحلق بشكل كامل وبالموس, والمرأه فقط تقصر قدر انمله. ويستحسن عند الحلق أن يقال: (الحمد لله على ما هدانا، الحمد لله على ما أنعم به علينا، اللهم هذه ناصيتي, فتقبل مني واغفر لي ذنوبي) \n
+(اللهم اغفر لي وللمحلقين والمقصرين يا واسع المغفرة ، آمين)\n
+وبعد الفراغ من الحلق أو التقصير يقول:\n
+)الحمد لله الذي قضى عنا نُسُكَنا(\n
+فإذا فعل ذلك يتحلل الحاج التحلل الأصغر, ويحل له كل شيء حرم بالإحرام إلا الجماع و دواعيه, فلا يحل له حتى يطوف طواف الإفاضة.\n
+4)	 \nطواف الإفاضة
+بعد العودة من منى إلى مكة المكرمة يطوف الحاج سبعة أشواط, ويصلي ركعتي الطواف, ويأتي الملتزم وزمزم, ثم يسعى بين الصفا والمروة إذا لم يكن قد سعى من قبل.\n
+بعد طواف الإفاضة يتحلل الحاج التحلل الأكبر أي يحل للحاج بعدها كل شيء.\n
+	    \n
+	</string>
+	<string name="ar_Ifradline5">
+	    
+5) السعي بين الصفا و المروة \n
+يصعد إلى الصفا بحيث يرى الكعبة (إذا أمكن) من باب الصفا ويقول حين الصعود\n
+(إِنَّ الصَّفَا وَالْمَرْوَةَ مِنْ شَعَائِرِ اللَّهِ فَمَنْ حَجَّ الْبَيْتَ أَوِ اعْتَمَرَ فَلا جُنَاحَ عَلَيْهِ أَنْ يَطَّوَّفَ بِهِمَا وَمَنْ تَطَوَّعَ خَيْرًا فَإِنَّ اللَّهَ شَاكِرٌ عَلِيم) \n
+ثم يقول:\n
+(الله أكبر الله أكبر، الله أكبر و لله الحمد، الله أكبر على ما هدانا والحمد لله على ما أولانا، لا إله إلا الله وحده لا شريك له، له الملك وله الحمد يحيي ويميت، بيده الخير، وهو على كل شيء قدير، لا إله إلا الله وحده، صدق وعده، ونصر عبده، وأعز جنده، و هزم الأحزاب و حده، لا إله إلا الله، ولا نعبد إلا إياه مخلصين له الدين ولو كره الكافرون، اللهم إنك قلت: ادعوني استجب لكم, وإنك لا تخلف الميعاد، وإني أسألك كما هديتني للإسلام أن لا تنزعه مني حتى تتوفاني وأنا مسلم) ثلاث مرات.\n
+ثم يصلي على سيدنا محمد (صلى الله عليه وسلم) ويقول عند هبوطه من الصفا في كل شوط:\n
+(اللهم إني أسألك موجبات رحمتك وعزائم مغفرتك والسلامة من كل إثم والغنيمة من كل بر والفوز بالجنة والنجاة من النار)\n
+يُسن أن يهرول بين الميلين الأخضرين (للرجل فقط).\n
+يدعو بين الميلين الأخضرين: (ربنا أتنا في الدنيا حسنة وفي الآخرة حسنة وقنا عذاب النار، رب اغفر وارحم، واعف وتكرم، وتجاوز عما تعلم, إنك أنت الأعز الأكرم، اللهم إني أسألك الهدى والتقى والعفاف والغنى، اللهم اعني على ذكرك وشكرك وحسن عبادتك).\n
+ ثم يصل الى المروة فهذا شوط واحد فيتم سبعة أشواط يبدأ أولها بالصفا وينتهي آخرها بالمروة.\n
+(إِنَّ الصَّفَا وَالْمَرْوَةَ مِنْ شَعَائِرِ اللَّهِ....)  عندما يقف عند المروة يقول \n
+ويقول نفس الأذكار والدعوات التي قالها عند الصفا.\n
+ثم يعود الحاج إلى منى للمبيت فيها من أجل رمي الجمرات الثلاث في الأيام الثلاثة القادمة.\n
+\n
+	    
+	</string>
+	<string name="ar_Ifradline6">
+	    
+
+<b>11- 12 -13 من ذي الحجة</b>
+يوم  11و 12 ويسمى (أول  وثاني أيام التشريق )\n
+في مِنى يرمي الحاج الجمرات الثلاث في هذا اليوم, والسنة أن يبدأ بالجمرة الصغرى, ثم الوسطى, ثم الكبرى (العقبة)، يرمي كل واحدة بسبع حصيات قائلاً مع كل رمية:  (بسم الله، والله أكبر رغماً للشيطان وحزبه وإرضاءً للرحمن)ويدعو بعد كل جمرة ما عدا جمرة العقبة الكبرى، يرفع يديه مستقبلاً الكعبة ويصلي على النبي (صلى الله عليه وسلم) و يدعو بحاجته ويقول:  (اللهم اجعله حجاً مبروراً وذنباً مغفوراً وعملاً صالحاً مقبولاً وتجارة لن تبور) ووقت الرمي من زوال الشمس (وقت الظهر) إلى طلوع فجر اليوم التالي ولكن السنة بين الزوال والغروب.\n
+جمرة العقبة تٌرمى بحيث يكون الحاج واقفاً مستقبل الجمرة ويجعل مِنى عن يمينه وطريق مكة عن يساره. أما الرمي من فوق الجسر فمن أي جهة كانت.\n
+أما بالنسبة للجمرة الصغرى والوسطى فترمى من جميع الجهات.\n
+	    \n
+	</string>
+	<string name="ar_Ifradline7">
+	    
+<b>يوم 13 (ثالث أيام التشريق) </b> \n 
+إذا كان الحاج متأخراً في مِنى إلى ما بعد غروب شمس ثالث أيام النحر، فيجب أن يرمي الجمرات الثلاث في اليوم الرابع. ووقت الرمي هو من طلوع الشمس إلى غروبها.\n
+(وَاذْكُرُوا اللَّهَ فِي أَيَّامٍ مَعْدُودَاتٍ فَمَنْ تَعَجَّلَ فِي يَوْمَيْنِ فلا إِثْمَ عَلَيْهِ وَمَنْ تَأَخَّرَ فَلا إِثْمَ عَلَيْهِ لِمَنِ اتَّقَى وَاتَّقُوا اللَّهَ وَاعْلَمُوا أَنَّكُمْ إِلَيْهِ تُحْشَرُون)\n
+ثم ينفر الحجاج إلى مكة لطواف الوادع\n
+إذا أراد الحاج السفر فيطوف بالبيت بلا سعي وهو واجب, ثم يصلي ركعتي الطواف, ويبدأ الدعاء بالحمد والثناء والصلاة على النبي (صلى الله عليه وسلم) ويختمه بذلك ويقول في الدعاء:\n
+(اللهم البيت بيتك والعبد عبدك وابن عبدك وابن أمتك, حملتني على ما سخرت لي من خلقك, وبلغتني بنعمتك حتى أعنتني على قضاء مناسكك, فإن كنت رضيت عني فزدني منك رضا, وإلا فَمُنَّ علي بالقبول و الرضا من محض فضلك يا ذا الفضل العظيم ها أنا منصرف بإذنك غير مستبدل بك ولا بيتك, ولا راغب عنك ولا عن بيتك.\n
+اللهم فأصحبني العافية في بدني والعصمة في ديني, وأحسن منقلبي, وارزقني طاعتك ما أبقيتني, واجمع لي خيري الآخرة والدنيا إنك على كل شيء قدير.\n
+اللهم ارزقني العود بعد العود, المرة بعد المرة إلى بيتك الحرام, واجعلني من المقبولين عندك يا ذا الجلال والإكرام, اللهم لا تجعله آخر العهد من بيتك الحرام يا أرحم الراحمين)\n
+معلومة : في حال أراد الحاج المفرد أن يسعى بعد طواف القدوم فباستطاعته ذلك ويكون ذلك السعي هو سعي الحج ولا حاجه عندئذ للسعي بعد طواف الإفاضة. \n
+	    \n\n\n\n\n\n\n\n\n\n
+	</string>
+	<string name="ar_Qiranline1">
+	    
+<b>الحاج القارن</b> \n 
+هو نية الحج و العمرة معاً (أي يحرم للحج و العمرة معاً) من الميقات ثم يؤدي مناسك العمرة ويبقى محرماً في مكة حتى الثامن من ذي الحجة موعد الحج فيؤدي مناسكه ثم يتحلل من إحرامه.\n
+
+و القِارن سمي كذلك لأنه قرن أي جمع بين الحج والعمرة في أشهر الحج في سفر واحد وبنية واحدة.\n
+
+قال الله تعالى:\n
+)إِنَّ أَوَّلَ بَيْتٍ وُضِعَ لِلنَّاسِ لَلَّذِي بِبَكَّةَ مُبَارَكًا وَهُدًى لِلْعَالَمِينَ * فِيهِ ءَايَاتٌ بَيِّنَاتٌ مَقَامُ إِبْرَاهِيمَ وَمَنْ دَخَلَهُ كَانَ ءَامِنًا وَلِلَّهِ عَلَى النَّاسِ حِجُّ الْبَيْتِ مَنِ اسْتَطَاعَ إِلَيْهِ سَبِيلا وَمَنْ كَفَرَ فَإِنَّ اللَّهَ غَنِيٌّ عَنِ الْعَالَمِينَ(\n
+
+<b>قبل الثامن من ذي الحجة</b> \n
+1) الاحرام \n
+2) طواف العمرة  :\n
+يستحب في بداية الطواف أن يستقبل الكعبة بحيث يكون الحجر الأسود عن يمينه ثم ينتقل ليستقبل الحجر و ينوي الطواف , يبدأ من خط المرمر البني ويقول:(بسم الله والله أكبر اللهم إيماناً بك وتصديقاً بكتابك ووفاء بعهدك وإتباعاً لسنة  نبيك) والطواف عبارة عن سبعة أشواط \n
+3) ركعتا الطواف:\n
+بعد الانتهاء من الطواف يصلي ركعتي الطواف خلف مقام سيدنا إبراهيم عليه السلام ولو في آخر الحرم أو في أي مكان في الحرم جائز في حال الزحام. \n
+يقرأ في الأولى قل يا أيها الكافرون.... وفي الثانية قل هو الله آحد....بعد الفاتحة ,يدعو بعد الصلاة: (اللهم إنك دعوت عبادك إلى بيتك, وقد جئت طالباً رحمتك, ومب\n
+تغياً رضوانك, وأنت مننت علي بذلك, فاغفر لي, إنك على كل شيء قدير).\n
+
+4) السعي بين الصفا و المروة \n
+يصعد إلى الصفا بحيث يرى الكعبة (إذا أمكن) من باب الصفا ويقول حين الصعود\n
+(إِنَّ الصَّفَا وَالْمَرْوَةَ مِنْ شَعَائِرِ اللَّهِ فَمَنْ حَجَّ الْبَيْتَ أَوِ اعْتَمَرَ فَلا جُنَاحَ عَلَيْهِ أَنْ يَطَّوَّفَ بِهِمَا وَمَنْ تَطَوَّعَ خَيْرًا فَإِنَّ اللَّهَ شَاكِرٌ عَلِيم) \n
+ثم يقول:\n
+(الله أكبر الله أكبر، الله أكبر و لله الحمد، الله أكبر على ما هدانا والحمد لله على ما أولانا، لا إله إلا الله وحده لا شريك له، له الملك وله الحمد يحيي ويميت، بيده الخير، وهو على كل شيء قدير، لا إله إلا الله وحده، صدق وعده، ونصر عبده، وأعز جنده، و هزم الأحزاب و حده، لا إله إلا الله، ولا نعبد إلا إياه مخلصين له الدين ولو كره الكافرون، اللهم إنك قلت: ادعوني استجب لكم, وإنك لا تخلف الميعاد، وإني أسألك كما هديتني للإسلام أن لا تنزعه مني حتى تتوفاني وأنا مسلم) ثلاث مرات.\n
+ثم يصلي على سيدنا محمد (صلى الله عليه وسلم) ويقول عند هبوطه من الصفا في كل شوط:\n
+(اللهم إني أسألك موجبات رحمتك وعزائم مغفرتك والسلامة من كل إثم والغنيمة من كل بر والفوز بالجنة والنجاة من النار)\n
+يُسن أن يهرول بين الميلين الأخضرين (للرجل فقط).\n
+يدعو بين الميلين الأخضرين: (ربنا أتنا في الدنيا حسنة وفي الآخرة حسنة وقنا عذاب النار، رب اغفر وارحم، واعف وتكرم، وتجاوز عما تعلم, إنك أنت الأعز الأكرم، اللهم إني أسألك الهدى والتقى والعفاف والغنى، اللهم اعني على ذكرك وشكرك وحسن عبادتك).\n
+ ثم يصل الى المروة فهذا شوط واحد فيتم سبعة أشواط يبدأ أولها بالصفا وينتهي آخرها بالمروة.\n
+(إِنَّ الصَّفَا وَالْمَرْوَةَ مِنْ شَعَائِرِ اللَّهِ....)  عندما يقف عند المروة يقول \n
+ويقول نفس الأذكار والدعوات التي قالها عند الصفا.\n
+ثم يعود الحاج إلى منى للمبيت فيها من أجل رمي الجمرات الثلاث في الأيام الثلاثة القادمة.\n
+
+5) يبقى محرما في مكة حتى الثامن من ذي الحجة \n
+خلال هذه المدة يستغلها الحاج بـ:\n
+- كثرة الصلاة في المسجد الحرام (الصلاة بمائة ألف صلاة)\n
+- يكثر من الطواف، لأن الطواف للآفاقي أفضل العبادات في المسجد الحرام. \n
+<b>الثامن من ذي الحجة</b> \n
+ينطلق إلى منى بعد صلاة الفجر يصلي بها الظهر – العصر – المغرب – العشاء – وفجر اليوم التاسع وعند التوجه إلى مِنى يقول:\n
+(اللهم إياك أرجو ولك أدعو فبلغني صالح أملي وأغفر لي وأمنن علي بما مننت به على أهل طاعتك، إنك على كل شيء قدير) وفي مِنى يكثر الحاج من الأذكار والقول:(ربنا آتنا في الدنيا حسنة وفي الآخرة حسنة وقنا عذاب النار)\n
+ويسن المكوث والصلاة في مسجد الخيف.\n
+<b>التاسع من ذي الحجة</b> \n
+الانطلاق إلى عرفات بعد صلاة الفجر ويقول في مسيره:\n
+)اللهم إليك توجهت, ووجهَك الكريمَ أردت فاجعل ذنبي مغفوراً وحجي مبرورا,ً وارحمني إنك على كل شيء قدير) ويكثر الحاج من التلبية وقراءة القرآن ومن قول ربنا آتنا في الدنيا حسنة...\n
+الوصول إلى عرفات يقف في عرفات , وإذا وقع بصره على جبل الرحمة يسبح الله ويكبره.\n
+يسن أن يتوجه إلى مسجد نمرة لسماع الخطبة, ويصلي الظهر والعصر جمع تقديم بوقت الظهر بآذان واحد و بإقامتين مع الإمام العام بدون أن يصلي السنن بينهما, والإكثار من الذكر والدعاء حتى غروب الشمس \n
+	    \n
+	</string>
+	<string name="ar_Qiranline2">
+	    
+الإفاضة من عرفات إلى مزدلفة ب<b>عد الغروب ملبياً ومكبراً ومهللاً وحامداً ويقول</b>\n:
+
+(الله أكبر الله أكبر الله أكبر، لا إله إلا الله والله أكبر، الله أكبر ولله الحمد(\n
+و يقول: \n
+(إليك اللهم أرغب, وإياك أرجو, فتقبل نسكي ووفقني, وارزقني فيه من الخير أكثر مما أطلب, ولا تخيبني, إنك أنت الله الجواد الكريم)ويستحب الإكثار من الدعاء والأذكار والتلبية وقراءة ما تيسر من القرآن\n
+)فَإِذَا أَفَضْتُمْ مِنْ عَرَفَاتٍ فَاذْكُرُوا اللَّهَ عِنْدَ الْمَشْعَرِ الْحَرَامِ وَاذْكُرُوهُ كَمَا هَدَاكُمْ وَإِنْ كُنْتُمْ مِنْ قَبْلِهِ لَمِنَ الضَّالِّين َ* ثُمَّ أَفِيضُوا مِنْ حَيْثُ أَفَاضَ النَّاسُ وَاسْتَغْفِرُوا اللَّهَ إِنَّ اللَّهَ غَفُورٌ رَحِيم(\n
+)اللهم إني أسألك فواتح الخير وخواتمه وجوامعه وأوله وآخره وظاهره وباطنه والدرجات العلا في الجنة, وأن تصلح لي شأني كله, وأن تصرف عني الشر كله, فإنه لا يفعل ذلك غيرك, ولا يجود به إلا أنت(\n
+ثم يصلي المغرب والعشاء بعد دخول وقت العشاء جمعاً بآذان واحد وإقامة واحدة ويؤخر سنة المغرب والعشاء والوتر إلى مابعد فرض العشاء , ثم يتزود الحاج بالحصيات وعددها 70 حصاة (فوق حجم الحمص و دون البندق) لرمي الجمرات كلها.\n
+إذا طلع الفجر يسن أن يصلي الصبح في أول وقتها، ثم يقول:\n
+(الله أكبر الله أكبر الله أكبر, لا إله إلا الله و الله أكبر, الله أكبر و لله الحمد) ويصلي على سيدنا محمد (صلى الله عليه وسلم) ويدعو رافعاً يديه إلى السماء.\n
+	    
+	</string>
+	<string name="ar_Qiranline3">
+	    
+<b>العاشر من ذي الحجة</b>\n
+1)	السير إلى مِنى بعد صلاة الصبح وقبل طلوع الشمس ويبذل جهده في الإكثار من التلبية، ويستحسن أن يقول في مسيره:\n
+(اللهم إليك أفضت، ومن عذابك أشفقت، وإليك توجهت، ومنك رهبت، اللهم تقبل نسكي، وأعظم أجري، وارحم تضرعي، واستجب دعوتي) ويصلي على النبي (صلى الله عليه وسلم) فإذا بلغ وادي محسر أسرع بقدر رمية حجر ويقول عند وصوله إلى مِنى:\n 
+(الحمد لله الذي بلغنيها سالماً معافى، اللهم هذه مِنى قد أتيتها وأنا عبدك، وفي قبضتك، أسألك أن تمن علي بما مننت به على أوليائك، اللهم إني أعوذ بك من الحرمان والمصيبة في ديني، يا أرحم الراحمين)\n
+2)	رمي جمرة العقبة\n 
+يرمي الحاج سبع حصيات ويقول عند كل واحدة) :بسم الله، والله أكبر, رغماً للشيطان وحزبه وإرضاءً للرحمن( ويقطع الحاج التلبية بأول الرمي.\n
+وقت الرمي من فجر يوم النحر إلى فجر اليوم التالي ولكن السنة أن يكون الرمي ما بين طلوع الشمس إلى الزوال ويجوز الرمي بعد الغروب إلى الفجر لكن مع الكراهة إلا لعذر. رمي الجمرة بحيث تضرب الحصية في شاخص (عمود) الجمرة أو تقع في الدائرة المحيطة به, ويكون الحاج واقفاً مستقبل الجمرة بحيث يجعل مِنى عن يمينه وطرق مكة عن يساره, أما الرمي من فوق الجسر فمن أي جهة كانت.\n 
+	    \n
+	</string>
+	<string name="ar_Qiranline4">
+	    
+3)	ذبح الهدي:\n
+وهي واجبة على المتمتع والقارن فقط، وأصبح في مكة مؤسسات تقوم نيابة عن الحاج في شراء الهدي (الشاة) وذبحه وتوزيعه على الفقراء في مختلف أنحاء العالم، فإن لم يجد لزمه الصوم ثلاثة أيام في الحج قبل يوم عرفة و سبعة إذا رجع إلى أهله.\n
+
+4)	الحلق والتقصير :\n
+جب حلق الشعر أو تقصيره قدر الأنملة (2 سم) ويستحب الحلق بشكل كامل وبالموس, والمرأه فقط تقصر قدر انمله. ويستحسن عند الحلق أن يقال: (الحمد لله على ما هدانا، الحمد لله على ما أنعم به علينا، اللهم هذه ناصيتي, فتقبل مني واغفر لي ذنوبي)\n
+(اللهم اغفر لي وللمحلقين والمقصرين يا واسع المغفرة ، آمين)\n
+وبعد الفراغ من الحلق أو التقصير يقول:\n
+)الحمد لله الذي قضى عنا نُسُكَنا(\n
+فإذا فعل ذلك يتحلل الحاج التحلل الأصغر, ويحل له كل شيء حرم بالإحرام إلا الجماع و دواعيه, فلا يحل له حتى يطوف طواف الإفاضة.\n
+5)	طواف الإفاضة\n
+بعد العودة من منى إلى مكة المكرمة يطوف الحاج سبعة أشواط, ويصلي ركعتي الطواف, ويأتي الملتزم وزمزم, ثم يسعى بين الصفا والمروة إذا لم يكن قد سعى من قبل.\n
+بعد طواف الإفاضة يتحلل الحاج التحلل الأكبر أي يحل للحاج بعدها كل شيء.\n
+	    \n
+	</string>
+	<string name="ar_Qiranline5">
+5) السعي بين الصفا و المروة\n 
+يصعد إلى الصفا بحيث يرى الكعبة (إذا أمكن) من باب الصفا ويقول حين الصعود\n
+(إِنَّ الصَّفَا وَالْمَرْوَةَ مِنْ شَعَائِرِ اللَّهِ فَمَنْ حَجَّ الْبَيْتَ أَوِ اعْتَمَرَ فَلا جُنَاحَ عَلَيْهِ أَنْ يَطَّوَّفَ بِهِمَا وَمَنْ تَطَوَّعَ خَيْرًا فَإِنَّ اللَّهَ شَاكِرٌ عَلِيم)\n 
+ثم يقول:\n
+(الله أكبر الله أكبر، الله أكبر و لله الحمد، الله أكبر على ما هدانا والحمد لله على ما أولانا، لا إله إلا الله وحده لا شريك له، له الملك وله الحمد يحيي ويميت، بيده الخير، وهو على كل شيء قدير، لا إله إلا الله وحده، صدق وعده، ونصر عبده، وأعز جنده، و هزم الأحزاب و حده، لا إله إلا الله، ولا نعبد إلا إياه مخلصين له الدين ولو كره الكافرون، اللهم إنك قلت: ادعوني استجب لكم, وإنك لا تخلف الميعاد، وإني أسألك كما هديتني للإسلام أن لا تنزعه مني حتى تتوفاني وأنا مسلم) ثلاث مرات.\n
+ثم يصلي على سيدنا محمد (صلى الله عليه وسلم) ويقول عند هبوطه من الصفا في كل شوط:\n
+(اللهم إني أسألك موجبات رحمتك وعزائم مغفرتك والسلامة من كل إثم والغنيمة من كل بر والفوز بالجنة والنجاة من النار)\n
+يُسن أن يهرول بين الميلين الأخضرين (للرجل فقط).\n
+يدعو بين الميلين الأخضرين: (ربنا أتنا في الدنيا حسنة وفي الآخرة حسنة وقنا عذاب النار، رب اغفر وارحم، واعف وتكرم، وتجاوز عما تعلم, إنك أنت الأعز الأكرم، اللهم إني أسألك الهدى والتقى والعفاف والغنى، اللهم اعني على ذكرك وشكرك وحسن عبادتك).\n
+ ثم يصل الى المروة فهذا شوط واحد فيتم سبعة أشواط يبدأ أولها بالصفا وينتهي آخرها بالمروة.\n
+(إِنَّ الصَّفَا وَالْمَرْوَةَ مِنْ شَعَائِرِ اللَّهِ....)  عندما يقف عند المروة يقول \n
+ويقول نفس الأذكار والدعوات التي قالها عند الصفا.\n
+ثم يعود الحاج إلى منى للمبيت فيها من أجل رمي الجمرات الثلاث في الأيام الثلاثة القادمة.\n
+	    \n
+	</string>
+	<string name="ar_Qiranline6">
+	    
+
+<b>11- 12 -13 من ذي الحجة</b> \n
+يوم  11و 12 ويسمى (أول  وثاني أيام التشريق )\n
+في مِنى يرمي الحاج الجمرات الثلاث في هذا اليوم, والسنة أن يبدأ بالجمرة الصغرى, ثم الوسطى, ثم الكبرى (العقبة)، يرمي كل واحدة بسبع حصيات قائلاً مع كل رمية:  (بسم الله، والله أكبر رغماً للشيطان وحزبه وإرضاءً للرحمن)ويدعو بعد كل جمرة ما عدا جمرة العقبة الكبرى، يرفع يديه مستقبلاً الكعبة ويصلي على النبي (صلى الله عليه وسلم) و يدعو بحاجته ويقول:  (اللهم اجعله حجاً مبروراً وذنباً مغفوراً وعملاً صالحاً مقبولاً وتجارة لن تبور) ووقت الرمي من زوال الشمس (وقت الظهر) إلى طلوع فجر اليوم التالي ولكن السنة بين الزوال والغروب.\n
+جمرة العقبة تٌرمى بحيث يكون الحاج واقفاً مستقبل الجمرة ويجعل مِنى عن يمينه وطريق مكة عن يساره. أما الرمي من فوق الجسر فمن أي جهة كانت.\n
+أما بالنسبة للجمرة الصغرى والوسطى فترمى من جميع الجهات.\n
+\n	    
+	</string>
+	<string name="ar_Qiranline7">
+	    
+<b>يوم 13 (ثالث أيام التشريق)</b>\n
+إذا كان الحاج متأخراً في مِنى إلى ما بعد غروب شمس ثالث أيام النحر، فيجب أن يرمي الجمرات الثلاث في اليوم الرابع. ووقت الرمي هو من طلوع الشمس إلى غروبها.\n
+(وَاذْكُرُوا اللَّهَ فِي أَيَّامٍ مَعْدُودَاتٍ فَمَنْ تَعَجَّلَ فِي يَوْمَيْنِ فلا إِثْمَ عَلَيْهِ وَمَنْ تَأَخَّرَ فَلا إِثْمَ عَلَيْهِ لِمَنِ اتَّقَى وَاتَّقُوا اللَّهَ وَاعْلَمُوا أَنَّكُمْ إِلَيْهِ تُحْشَرُون)\n
+ثم ينفر الحجاج إلى مكة لطواف الوادع\n
+إذا أراد الحاج السفر فيطوف بالبيت بلا سعي وهو واجب, ثم يصلي ركعتي الطواف, ويبدأ الدعاء بالحمد والثناء والصلاة على النبي (صلى الله عليه وسلم) ويختمه بذلك ويقول في الدعاء:\n
+(اللهم البيت بيتك والعبد عبدك وابن عبدك وابن أمتك, حملتني على ما سخرت لي من خلقك, وبلغتني بنعمتك حتى أعنتني على قضاء مناسكك, فإن كنت رضيت عني فزدني منك رضا, وإلا فَمُنَّ علي بالقبول و الرضا من محض فضلك يا ذا الفضل العظيم ها أنا منصرف بإذنك غير مستبدل بك ولا بيتك, ولا راغب عنك ولا عن بيتك.\n
+اللهم فأصحبني العافية في بدني والعصمة في ديني, وأحسن منقلبي, وارزقني طاعتك ما أبقيتني, واجمع لي خيري الآخرة والدنيا إنك على كل شيء قدير.\n
+اللهم ارزقني العود بعد العود, المرة بعد المرة إلى بيتك الحرام, واجعلني من المقبولين عندك يا ذا الجلال والإكرام, اللهم لا تجعله آخر العهد من بيتك الحرام يا أرحم الراحمين)\n
+معلومة : في حال أراد الحاج القارن أن يقدم سعى الحج  على طواف الإفاضة فبإمكانه ذلك بأن ينشئ طواف نفل قبل التوجه إلى منى ويسعى بعده سعي الحج.\n
+\n\n\n\n\n\n\n\n\n\n	    
+	</string>
+	<string name="ar_tamatuline1">
+	    
+<b>الحاج المتمتع</b> \n
+أن يحرم بالعمرة من ميقات بلده ويفرغ منها ثم يحرم للحج من مكة\n
+وسمي متمتعاً لاستمتاعه بمحظورات الإحرام بين العمرة والحج من الثياب, والطيب, والنساء...\n
+
+والمخطط المنطقي الموجود على يمين الشاشة يوضح مسير الحاج المتمتع خطوة خطوة.\n
+
+قال الله تعالى:\n
+(إِنَّ أَوَّلَ بَيْتٍ وُضِعَ لِلنَّاسِ لَلَّذِي بِبَكَّةَ مُبَارَكًا وَهُدًى لِلْعَالَمِينَ * فِيهِ ءَايَاتٌ بَيِّنَاتٌ مَقَامُ إِبْرَاهِيمَ وَمَنْ دَخَلَهُ كَانَ ءَامِنًا وَلِلَّهِ عَلَى النَّاسِ حِجُّ الْبَيْتِ مَنِ اسْتَطَاعَ إِلَيْهِ سَبِيلا وَمَنْ كَفَرَ فَإِنَّ اللَّهَ غَنِيٌّ عَنِ الْعَالَمِينَ)\n
+قبل الثامن من ذي الحجة\n
+1) الاحرام\n 
+2) طواف العمرة  :\n
+يستحب في بداية الطواف أن يستقبل الكعبة بحيث يكون الحجر الأسود عن يمينه ثم ينتقل ليستقبل الحجر و ينوي الطواف , يبدأ من خط المرمر البني ويقول:(بسم الله والله أكبر اللهم إيماناً بك وتصديقاً بكتابك ووفاء بعهدك وإتباعاً لسنة  نبيك) والطواف عبارة عن سبعة أشواط \n
+3) ركعتا الطواف:\n
+بعد الانتهاء من الطواف يصلي ركعتي الطواف خلف مقام سيدنا إبراهيم عليه السلام ولو في آخر الحرم أو في أي مكان في الحرم جائز في حال الزحام.\n 
+يقرأ في الأولى قل يا أيها الكافرون.... وفي الثانية قل هو الله آحد....بعد الفاتحة ,يدعو بعد الصلاة: (اللهم إنك دعوت عبادك إلى بيتك, وقد جئت طالباً رحمتك, ومب\n
+تغياً رضوانك, وأنت مننت علي بذلك, فاغفر لي, إنك على كل شيء قدير).\n
+
+4) السعي بين الصفا و المروة\n 
+يصعد إلى الصفا بحيث يرى الكعبة (إذا أمكن) من باب الصفا ويقول حين الصعود\n
+(إِنَّ الصَّفَا وَالْمَرْوَةَ مِنْ شَعَائِرِ اللَّهِ فَمَنْ حَجَّ الْبَيْتَ أَوِ اعْتَمَرَ فَلا جُنَاحَ عَلَيْهِ أَنْ يَطَّوَّفَ بِهِمَا وَمَنْ تَطَوَّعَ خَيْرًا فَإِنَّ اللَّهَ شَاكِرٌ عَلِيم)\n 
+ثم يقول:\n
+(الله أكبر الله أكبر، الله أكبر و لله الحمد، الله أكبر على ما هدانا والحمد لله على ما أولانا، لا إله إلا الله وحده لا شريك له، له الملك وله الحمد يحيي ويميت، بيده الخير، وهو على كل شيء قدير، لا إله إلا الله وحده، صدق وعده، ونصر عبده، وأعز جنده، و هزم الأحزاب و حده، لا إله إلا الله، ولا نعبد إلا إياه مخلصين له الدين ولو كره الكافرون، اللهم إنك قلت: ادعوني استجب لكم, وإنك لا تخلف الميعاد، وإني أسألك كما هديتني للإسلام أن لا تنزعه مني حتى تتوفاني وأنا مسلم) ثلاث مرات.\n
+ثم يصلي على سيدنا محمد (صلى الله عليه وسلم) ويقول عند هبوطه من الصفا في كل شوط:\n
+(اللهم إني أسألك موجبات رحمتك وعزائم مغفرتك والسلامة من كل إثم والغنيمة من كل بر والفوز بالجنة والنجاة من النار)\n
+يُسن أن يهرول بين الميلين الأخضرين (للرجل فقط).\n
+يدعو بين الميلين الأخضرين: (ربنا أتنا في الدنيا حسنة وفي الآخرة حسنة وقنا عذاب النار، رب اغفر وارحم، واعف وتكرم، وتجاوز عما تعلم, إنك أنت الأعز الأكرم، اللهم إني أسألك الهدى والتقى والعفاف والغنى، اللهم اعني على ذكرك وشكرك وحسن عبادتك).\n
+ ثم يصل الى المروة فهذا شوط واحد فيتم سبعة أشواط يبدأ أولها بالصفا وينتهي آخرها بالمروة.\n
+(إِنَّ الصَّفَا وَالْمَرْوَةَ مِنْ شَعَائِرِ اللَّهِ....)  عندما يقف عند المروة يقول\n 
+ويقول نفس الأذكار والدعوات التي قالها عند الصفا.\n
+ثم يعود الحاج إلى منى للمبيت فيها من أجل رمي الجمرات الثلاث في الأيام الثلاثة القادمة.\n
+5) الحلق و التقصير(التحلل من العمرة للمتمتع)\n
+ويكون بحلق الشعر أو بتقصيره قدر الأنملة (2سم) ثم يتحلل من الإحرام ويحل له كل شيء حتى النساء, ما عدا الصيد.\n
+6) يبقى غير محرم في مكة حتى الثامن من ذي الحجة\n 
+خلال هذه المدة يستغلها الحاج بـ:\n
+- كثرة الصلاة في المسجد الحرام (الصلاة بمائة ألف صلاة)\n
+- يكثر من الطواف، لأن الطواف للآفاقي أفضل العبادات في المسجد الحرام.\n 
+<b>الثامن من ذي الحجة</b>\n 
+1)	يحرم للحج من المسجد الحرام ويصلي ركعتي الإحرام ويقول:\n
+(اللهم إني أريد الحج فيسره لي وتقبله مني، نويت الحج وأحرمت به لله تعالى فإن حبسني حابس فمحلي حيث حبستني( ويقول لبيك اللهم لبيك... ثلاث مرات، ويختم بالصلاة على سيدنا محمد (صلى الله عليه وسلم)\n
+2)	ينطلق إلى منى بعد صلاة الفجر يصلي بها الظهر – العصر – المغرب – العشاء – وفجر اليوم التاسع وعند التوجه إلى مِنى يقول:\n
+(اللهم إياك أرجو ولك أدعو فبلغني صالح أملي وأغفر لي وأمنن علي بما مننت به على أهل طاعتك، إنك على كل شيء قدير) وفي مِنى يكثر الحاج من الأذكار والقول:(ربنا آتنا في الدنيا حسنة وفي الآخرة حسنة وقنا عذاب النار)\n
+ويسن المكوث والصلاة في مسجد الخيف.\n
+<b>التاسع من ذي الحجة</b> \n
+الانطلاق إلى عرفات بعد صلاة الفجر ويقول في مسيره:\n
+)اللهم إليك توجهت, ووجهَك الكريمَ أردت فاجعل ذنبي مغفوراً وحجي مبرورا,ً وارحمني إنك على كل شيء قدير) ويكثر الحاج من التلبية وقراءة القرآن ومن قول ربنا آتنا في الدنيا حسنة...\n
+الوصول إلى عرفات يقف في عرفات , وإذا وقع بصره على جبل الرحمة يسبح الله ويكبره.\n
+يسن أن يتوجه إلى مسجد نمرة لسماع الخطبة, ويصلي الظهر والعصر جمع تقديم بوقت الظهر بآذان واحد و بإقامتين مع الإمام العام بدون أن يصلي السنن بينهما, والإكثار من الذكر والدعاء حتى غروب الشمس\n
+	    \n
+	</string>
+	<string name="ar_tamatuline2">
+	    
+<b>الإفاضة من عرفات إلى مزدلفة بعد الغروب ملبياً ومكبراً ومهللاً وحامداً ويقول:</b>\n
+(الله أكبر الله أكبر الله أكبر، لا إله إلا الله والله أكبر، الله أكبر ولله الحمد(\n
+و يقول:\n 
+(إليك اللهم أرغب, وإياك أرجو, فتقبل نسكي ووفقني, وارزقني فيه من الخير أكثر مما أطلب, ولا تخيبني, إنك أنت الله الجواد الكريم)ويستحب الإكثار من الدعاء والأذكار والتلبية وقراءة ما تيسر من القرآن\n
+)فَإِذَا أَفَضْتُمْ مِنْ عَرَفَاتٍ فَاذْكُرُوا اللَّهَ عِنْدَ الْمَشْعَرِ الْحَرَامِ وَاذْكُرُوهُ كَمَا هَدَاكُمْ وَإِنْ كُنْتُمْ مِنْ قَبْلِهِ لَمِنَ الضَّالِّين َ* ثُمَّ أَفِيضُوا مِنْ حَيْثُ أَفَاضَ النَّاسُ وَاسْتَغْفِرُوا اللَّهَ إِنَّ اللَّهَ غَفُورٌ رَحِيم(\n
+	    \n
+	</string>
+	<string name="ar_tamatuline3">
+	    
+)اللهم إني أسألك فواتح الخير وخواتمه وجوامعه وأوله وآخره وظاهره وباطنه والدرجات العلا في الجنة, وأن تصلح لي شأني كله, وأن تصرف عني الشر كله, فإنه لا يفعل ذلك غيرك, ولا يجود به إلا أنت(\n
+ثم يصلي المغرب والعشاء بعد دخول وقت العشاء جمعاً بآذان واحد وإقامة واحدة ويؤخر سنة المغرب والعشاء والوتر إلى مابعد فرض العشاء , ثم يتزود الحاج بالحصيات وعددها 70 حصاة (فوق حجم الحمص و دون البندق) لرمي الجمرات كلها.\n
+إذا طلع الفجر يسن أن يصلي الصبح في أول وقتها، ثم يقول:\n
+(الله أكبر الله أكبر الله أكبر, لا إله إلا الله و الله أكبر, الله أكبر و لله الحمد) ويصلي على سيدنا محمد (صلى الله عليه وسلم) ويدعو رافعاً يديه إلى السماء.\n
+<b>العاشر من ذي الحجة</b>\n 
+1)	السير إلى مِنى بعد صلاة الصبح وقبل طلوع الشمس ويبذل جهده في الإكثار من التلبية، ويستحسن أن يقول في مسيره:\n
+(اللهم إليك أفضت، ومن عذابك أشفقت، وإليك توجهت، ومنك رهبت، اللهم تقبل نسكي، وأعظم أجري، وارحم تضرعي، واستجب دعوتي) ويصلي على النبي (صلى الله عليه وسلم) فإذا بلغ وادي محسر أسرع بقدر رمية حجر ويقول عند وصوله إلى مِنى:\n 
+(الحمد لله الذي بلغنيها سالماً معافى، اللهم هذه مِنى قد أتيتها وأنا عبدك، وفي قبضتك، أسألك أن تمن علي بما مننت به على أوليائك، اللهم إني أعوذ بك من الحرمان والمصيبة في ديني، يا أرحم الراحمين)\n
+2)	رمي جمرة العقبة\n 
+يرمي الحاج سبع حصيات ويقول عند كل واحدة) :بسم الله، والله أكبر, رغماً للشيطان وحزبه وإرضاءً للرحمن( ويقطع الحاج التلبية بأول الرمي.\n
+وقت الرمي من فجر يوم النحر إلى فجر اليوم التالي ولكن السنة أن يكون الرمي ما بين طلوع الشمس إلى الزوال ويجوز الرمي بعد الغروب إلى الفجر لكن مع الكراهة إلا لعذر. رمي الجمرة بحيث تضرب الحصية في شاخص (عمود) الجمرة أو تقع في الدائرة المحيطة به, ويكون الحاج واقفاً مستقبل الجمرة بحيث يجعل مِنى عن يمينه وطرق مكة عن يساره, أما الرمي من فوق الجسر فمن أي جهة كانت.\n 
+	    \n
+	</string>
+	<string name="ar_tamatuline4">
+	    
+3)	ذبح الهدي:\n
+وهي واجبة على المتمتع والقارن فقط، وأصبح في مكة مؤسسات تقوم نيابة عن الحاج في شراء الهدي (الشاة) وذبحه وتوزيعه على الفقراء في مختلف أنحاء العالم، فإن لم يجد لزمه الصوم ثلاثة أيام في الحج قبل يوم عرفة و سبعة إذا رجع إلى أهله.\n
+
+4)	الحلق والتقصير :\n
+جب حلق الشعر أو تقصيره قدر الأنملة (2 سم) ويستحب الحلق بشكل كامل وبالموس, والمرأه فقط تقصر قدر انمله. ويستحسن عند الحلق أن يقال: (الحمد لله على ما هدانا، الحمد لله على ما أنعم به علينا، اللهم هذه ناصيتي, فتقبل مني واغفر لي ذنوبي)\n
+(اللهم اغفر لي وللمحلقين والمقصرين يا واسع المغفرة ، آمين)\n
+وبعد الفراغ من الحلق أو التقصير يقول:\n
+)الحمد لله الذي قضى عنا نُسُكَنا(\n
+فإذا فعل ذلك يتحلل الحاج التحلل الأصغر, ويحل له كل شيء حرم بالإحرام إلا الجماع و دواعيه, فلا يحل له حتى يطوف طواف الإفاضة.\n
+5)	طواف الإفاضة\n
+بعد العودة من منى إلى مكة المكرمة يطوف الحاج سبعة أشواط, ويصلي ركعتي الطواف, ويأتي الملتزم وزمزم, ثم يسعى بين الصفا والمروة إذا لم يكن قد سعى من قبل.\n
+بعد طواف الإفاضة يتحلل الحاج التحلل الأكبر أي يحل للحاج بعدها كل شيء.\n
+	    \n
+	</string>
+	<string name="ar_tamatuline5">
+	    
+6) السعي بين الصفا و المروة\n 
+يصعد إلى الصفا بحيث يرى الكعبة (إذا أمكن) من باب الصفا ويقول حين الصعود\n
+(إِنَّ الصَّفَا وَالْمَرْوَةَ مِنْ شَعَائِرِ اللَّهِ فَمَنْ حَجَّ الْبَيْتَ أَوِ اعْتَمَرَ فَلا جُنَاحَ عَلَيْهِ أَنْ يَطَّوَّفَ بِهِمَا وَمَنْ تَطَوَّعَ خَيْرًا فَإِنَّ اللَّهَ شَاكِرٌ عَلِيم)\n 
+ثم يقول:\n
+(الله أكبر الله أكبر، الله أكبر و لله الحمد، الله أكبر على ما هدانا والحمد لله على ما أولانا، لا إله إلا الله وحده لا شريك له، له الملك وله الحمد يحيي ويميت، بيده الخير، وهو على كل شيء قدير، لا إله إلا الله وحده، صدق وعده، ونصر عبده، وأعز جنده، و هزم الأحزاب و حده، لا إله إلا الله، ولا نعبد إلا إياه مخلصين له الدين ولو كره الكافرون، اللهم إنك قلت: ادعوني استجب لكم, وإنك لا تخلف الميعاد، وإني أسألك كما هديتني للإسلام أن لا تنزعه مني حتى تتوفاني وأنا مسلم) ثلاث مرات.\n
+ثم يصلي على سيدنا محمد (صلى الله عليه وسلم) ويقول عند هبوطه من الصفا في كل شوط:\n
+(اللهم إني أسألك موجبات رحمتك وعزائم مغفرتك والسلامة من كل إثم والغنيمة من كل بر والفوز بالجنة والنجاة من النار)\n
+يُسن أن يهرول بين الميلين الأخضرين (للرجل فقط).\n
+يدعو بين الميلين الأخضرين: (ربنا أتنا في الدنيا حسنة وفي الآخرة حسنة وقنا عذاب النار، رب اغفر وارحم، واعف وتكرم، وتجاوز عما تعلم, إنك أنت الأعز الأكرم، اللهم إني أسألك الهدى والتقى والعفاف والغنى، اللهم اعني على ذكرك وشكرك وحسن عبادتك).\n
+ ثم يصل الى المروة فهذا شوط واحد فيتم سبعة أشواط يبدأ أولها بالصفا وينتهي آخرها بالمروة.\n
+(إِنَّ الصَّفَا وَالْمَرْوَةَ مِنْ شَعَائِرِ اللَّهِ....)  عندما يقف عند المروة يقول\n 
+ويقول نفس الأذكار والدعوات التي قالها عند الصفا.\n
+ثم يعود الحاج إلى منى للمبيت فيها من أجل رمي الجمرات الثلاث في الأيام الثلاثة القادمة.\n
+	    \n
+	</string>
+	<string name="ar_tamatuline6">
+	    
+
+<b>11- 12 -13 من ذي الحجة</b> \n
+يوم  11و 12 ويسمى (أول  وثاني أيام التشريق )\n
+في مِنى يرمي الحاج الجمرات الثلاث في هذا اليوم, والسنة أن يبدأ بالجمرة الصغرى, ثم الوسطى, ثم الكبرى (العقبة)، يرمي كل واحدة بسبع حصيات قائلاً مع كل رمية:  (بسم الله، والله أكبر رغماً للشيطان وحزبه وإرضاءً للرحمن)ويدعو بعد كل جمرة ما عدا جمرة العقبة الكبرى، يرفع يديه مستقبلاً الكعبة ويصلي على النبي (صلى الله عليه وسلم) و يدعو بحاجته ويقول:  (اللهم اجعله حجاً مبروراً وذنباً مغفوراً وعملاً صالحاً مقبولاً وتجارة لن تبور) ووقت الرمي من زوال الشمس (وقت الظهر) إلى طلوع فجر اليوم التالي ولكن السنة بين الزوال والغروب.\n
+جمرة العقبة تٌرمى بحيث يكون الحاج واقفاً مستقبل الجمرة ويجعل مِنى عن يمينه وطريق مكة عن يساره. أما الرمي من فوق الجسر فمن أي جهة كانت.\n
+أما بالنسبة للجمرة الصغرى والوسطى فترمى من جميع الجهات.\n
+\n	    
+	</string>
+	<string name="ar_tamatuline7">
+	    
+<b>يوم 13 (ثالث أيام التشريق)</b>\n
+إذا كان الحاج متأخراً في مِنى إلى ما بعد غروب شمس ثالث أيام النحر، فيجب أن يرمي الجمرات الثلاث في اليوم الرابع. ووقت الرمي هو من طلوع الشمس إلى غروبها.\n
+(وَاذْكُرُوا اللَّهَ فِي أَيَّامٍ مَعْدُودَاتٍ فَمَنْ تَعَجَّلَ فِي يَوْمَيْنِ فلا إِثْمَ عَلَيْهِ وَمَنْ تَأَخَّرَ فَلا إِثْمَ عَلَيْهِ لِمَنِ اتَّقَى وَاتَّقُوا اللَّهَ وَاعْلَمُوا أَنَّكُمْ إِلَيْهِ تُحْشَرُون)\n
+ثم ينفر الحجاج إلى مكة لطواف الوادع\n
+إذا أراد الحاج السفر فيطوف بالبيت بلا سعي وهو واجب, ثم يصلي ركعتي الطواف, ويبدأ الدعاء بالحمد والثناء والصلاة على النبي (صلى الله عليه وسلم) ويختمه بذلك ويقول في الدعاء:\n
+(اللهم البيت بيتك والعبد عبدك وابن عبدك وابن أمتك, حملتني على ما سخرت لي من خلقك, وبلغتني بنعمتك حتى أعنتني على قضاء مناسكك, فإن كنت رضيت عني فزدني منك رضا, وإلا فَمُنَّ علي بالقبول و الرضا من محض فضلك يا ذا الفضل العظيم ها أنا منصرف بإذنك غير مستبدل بك ولا بيتك, ولا راغب عنك ولا عن بيتك.\n
+اللهم فأصحبني العافية في بدني والعصمة في ديني, وأحسن منقلبي, وارزقني طاعتك ما أبقيتني, واجمع لي خيري الآخرة والدنيا إنك على كل شيء قدير.\n
+اللهم ارزقني العود بعد العود, المرة بعد المرة إلى بيتك الحرام, واجعلني من المقبولين عندك يا ذا الجلال والإكرام, اللهم لا تجعله آخر العهد من بيتك الحرام يا أرحم الراحمين)\n
+معلومة : في حال أراد الحاج المتمتع أن يقدم سعى الحج  على طواف الإفاضة فبإمكانه ذلك  ويكون بأن ينشئ طواف يعد ان يحرم في الثامن   من ذو الحجة ويسعى بعده سعي الحج.\n
+\n\n\n\n\n\n\n\n	    
+	</string>
+	<string name="aboutText">
+	    <b>About:</b>\n\n\n
+<b>Mecca</b> \– Pilgrims Global Positioning System is an application that should help visitors of Mecca to find POIs and also provide Ehram\, Hajj &amp; Umrah guidance. \n 
+This application was developed for our graduation project for the Arab Open University SAB for the academic year 2012-2013.\n
+All rights reserved.\n
+By :\n
+Fatima Hussein  &amp;  Zena Al Salty\n
+	    \n
+	</string>
+	<string name="ar_aboutText">
+	    
+<b>عن البرنامج:</b>\n\n\n
+هذا التطبيق يساعد زوار بيت الله الحرام في العثور على أهم المواقع داخل و جوار الحرم المكي الشريف. أيضا يحتوي على معلومات عن الإحرام و الحج و العمرة. \n
+تم تطوير هذا التطبيق كمشروع تخرج من الجامعة العربية المفتوحة – فرع المملكة العربية السعودية للعام الأكاديمي 2012 – 2013\n
+جميع الحقوق محفوظة.   \n
+بواسطة:\n
+فاطمة حسين و زينة السلطي\n
+	    \n
+	</string>
+</resources>

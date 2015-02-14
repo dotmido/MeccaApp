@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent" 
+    android:background="@drawable/hajj_omra_menu_background">
+    
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+        android:layout_marginTop="80dp"
+        android:layout_marginBottom="80dp"
+        >
+        <TextView android:id="@+id/tamatuline1"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/tamatuline1"/>
+        <ImageView android:id="@+id/tamatuImg1"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:src="@drawable/ifrad_img1"/>
+        <TextView android:id="@+id/tamatuline2"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/tamatuline2"/>
+        <ImageView android:id="@+id/tamatuImg2"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:src="@drawable/ifrad_img6"/>
+        <TextView android:id="@+id/tamatuline3"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/tamatuline3"/>
+        <ImageView android:id="@+id/tamatuImg3"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:src="@drawable/ifrad_img2"/>
+        <TextView android:id="@+id/tamatuline4"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/tamatuline4"/>
+        <ImageView android:id="@+id/tamatuImg4"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:src="@drawable/ifrad_img3"/>
+        <TextView android:id="@+id/tamatuline5"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/tamatuline5" />
+        <ImageView android:id="@+id/tamatuImg5"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:src="@drawable/ifrad_img4"/>
+        <TextView android:id="@+id/tamatuline6"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/tamatuline6"/>
+        <ImageView android:id="@+id/tamatuImg5"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:src="@drawable/ifrad_img5"/>
+        <TextView android:id="@+id/tamatuline7"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/tamatuline7"/>
+        <ImageView android:id="@+id/tamatuImg6"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:src="@drawable/ifrad_img6"/>
+        <TextView android:id="@+id/tamatuline8"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/tamatuline8"/>
+        <ImageView android:id="@+id/tamatuImg7"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:src="@drawable/ifrad_img7"/>
+        <TextView android:id="@+id/tamatuline9"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/tamatuline9"/>
+    </LinearLayout>
+    
+
+</ScrollView>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout  xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:background="@drawable/start"
+    >
+
+    <ImageButton
+        android:id="@+id/Manask"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentRight="true"
+        android:background="@drawable/backgroundstate"
+        android:src="@drawable/mnsak" />
+
+    <ImageButton
+        android:id="@+id/mapCom"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_marginBottom="38dp"
+        android:layout_marginRight="16dp"
+        android:layout_toLeftOf="@+id/About"
+        android:background="@drawable/backgroundstate"
+        android:src="@drawable/map" />
+
+    <ImageButton
+        android:id="@+id/About"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignBottom="@+id/mapCom"
+        android:layout_alignParentRight="true"
+        android:layout_marginBottom="70dp"
+        android:layout_marginRight="26dp"
+        android:background="@drawable/backgroundstate"
+        android:src="@drawable/about" />
+    
+</RelativeLayout>

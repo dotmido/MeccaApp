@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/hajj_omra_menu_background" >
+
+    <ImageButton
+        android:id="@+id/EnahramBtn"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentTop="true"
+        android:layout_marginLeft="19dp"
+        android:layout_marginTop="84dp"
+        android:background="@drawable/backgroundstate"
+        android:src="@drawable/en_ahram" />
+
+        <ImageButton
+            android:id="@+id/EnHajjTamattuBtn"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentLeft="true"
+            android:layout_alignTop="@+id/EnHajjIfradBtn"
+            android:layout_marginTop="31dp"
+            android:background="@drawable/backgroundstate"
+            android:src="@drawable/en_hajj_tamatu" />
+
+        <ImageButton
+            android:id="@+id/EnumrahBtn"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignTop="@+id/EnHajjTamattuBtn"
+            android:layout_marginTop="43dp"
+            android:layout_toRightOf="@+id/EnHajjTamattuBtn"
+            android:background="@drawable/backgroundstate"
+            android:src="@drawable/en_omra" />
+
+        <ImageButton
+            android:id="@+id/EnHajjIfradBtn"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentRight="true"
+            android:layout_alignTop="@+id/EnahramBtn"
+            android:layout_marginTop="96dp"
+            android:background="@drawable/backgroundstate"
+            android:src="@drawable/en_hajj_ifrad" />
+
+        <ImageButton
+            android:id="@+id/EnHajjQiranBtn"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignTop="@+id/EnahramBtn"
+            android:layout_marginLeft="16dp"
+            android:layout_toRightOf="@+id/EnahramBtn"
+            android:background="@drawable/backgroundstate"
+            android:src="@drawable/en_hajj_qrian" />
+
+</RelativeLayout>

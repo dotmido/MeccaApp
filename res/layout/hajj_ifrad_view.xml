@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent" 
+    android:background="@drawable/hajj_omra_menu_background">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+        android:layout_marginTop="80dp"
+        android:layout_marginBottom="80dp"
+        >
+        
+        <TextView 
+            android:id="@+id/ifradline1"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/Ifradline1"/>
+        
+        <ImageView android:id="@+id/ifradImg1"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:src="@drawable/ifrad_img1"/>
+        
+        <TextView android:id="@+id/ifradline2"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/Ifradline2"/>
+        
+        <ImageView android:id="@+id/ifradImg2"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:src="@drawable/ifrad_img2"/>
+        
+        <TextView android:id="@+id/ifradline3"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/Ifradline3"/>
+        
+        <ImageView android:id="@+id/ifradImg3"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:src="@drawable/ifrad_img3"/>
+        <TextView android:id="@+id/ifradline4"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/Ifradline4"/>
+        <ImageView android:id="@+id/ifradImg4"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:src="@drawable/ifrad_img4"/>
+        <TextView android:id="@+id/Ifradline5"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/Ifradline5"/>
+        <ImageView android:id="@+id/IfradImg5"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:src="@drawable/ifrad_img5"/>
+        <TextView  android:id="@+id/Ifradline6"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/Ifradline6"/>
+        <ImageView android:id="@+id/ifradImg6"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:src="@drawable/ifrad_img6"/>
+        <TextView android:id="@+id/Ifradline7"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/Ifradline7"/>
+        <ImageView android:id="@+id/ifradImg7"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:src="@drawable/ifrad_img7"/>
+        <TextView android:id="@+id/ifradline8"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/Ifradline8"/>
+    </LinearLayout>
+    
+
+</ScrollView>

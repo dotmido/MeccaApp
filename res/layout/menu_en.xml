@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout  xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:background="@drawable/start"
+    >
+
+    <ImageButton
+        android:id="@+id/mapCom_en"
+        android:src="@drawable/map_en"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_marginBottom="38dp"
+        android:layout_marginRight="16dp"
+        android:layout_toLeftOf="@+id/About_en"
+        android:background="@drawable/en_backgroundstate"
+         />
+
+    <ImageButton
+        android:id="@+id/Manask_en"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentRight="true"
+        android:background="@drawable/backgroundstate"
+        android:src="@drawable/hajj_en" />
+
+    <ImageButton
+        android:id="@+id/About_en"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_above="@+id/Manask_en"
+        android:layout_alignParentRight="true"
+        android:background="@drawable/en_backgroundstate"
+        android:src="@drawable/about_en" />
+    
+</RelativeLayout>

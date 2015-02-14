@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:orientation="vertical" >
+
+       <com.google.android.maps.MapView
+        android:id="@+id/mapview"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:apiKey="0pESW6mr6kq87l6PqmU_pCqc_c2zYj8X96DHcRg"
+        android:clickable="true" />
+       
+       <ImageButton 
+           android:id="@+id/locationBtn"
+           android:layout_width="50dp"
+           android:layout_height="50dp"
+           android:clickable="true"
+           android:src="@drawable/ic_tab_example_unselected"
+           android:layout_marginLeft="20dp"
+           android:layout_marginTop="20dp"
+           android:contentDescription="centeralize button"
+           />
+</RelativeLayout>
